@@ -7,7 +7,7 @@ about:
   head: d039c95
   archived: false
   latestVersion: v3.20.0
-  collectedAt: 2026-09-04T19:53:54Z
+  collectedAt: 2026-09-04T20:46:51Z
 timeline:
   created: 2017-02-05
   lastCommit: 2026-09-04
@@ -82,6 +82,184 @@ total:
   openIssue: 26
   commit: 2072
 ---
+path: /home/runner/.x-repo/github.com/errata-ai/vale
+collectedAt: 2026-09-04T20:46:53Z
+loc:
+  Xml:
+    code: 83725
+    comments: 1635
+    blanks: 2262
+    files: 91
+  XSL:
+    code: 38997
+    comments: 2765
+    blanks: 4311
+    files: 80
+  Go:
+    code: 24647
+    comments: 4612
+    blanks: 4110
+    files: 197
+  Yaml:
+    code: 13473
+    comments: 138
+    blanks: 362
+    files: 331
+  Rust:
+    code: 2595
+    comments: 48
+    blanks: 188
+    files: 5
+  Json:
+    code: 2373
+    comments: 0
+    blanks: 0
+    files: 20
+  ReStructuredText:
+    code: 2233
+    comments: 0
+    blanks: 574
+    files: 19
+  Html:
+    code: 719
+    comments: 0
+    blanks: 44
+    files: 13
+  AsciiDoc:
+    code: 430
+    comments: 17
+    blanks: 167
+    files: 27
+  Python:
+    code: 363
+    comments: 17
+    blanks: 70
+    files: 10
+  JavaScript:
+    code: 106
+    comments: 96
+    blanks: 26
+    files: 2
+  Org:
+    code: 91
+    comments: 2
+    blanks: 41
+    files: 4
+  Cpp:
+    code: 59
+    comments: 89
+    blanks: 22
+    files: 4
+  Makefile:
+    code: 57
+    comments: 16
+    blanks: 18
+    files: 1
+  Qml:
+    code: 51
+    comments: 11
+    blanks: 11
+    files: 1
+  Elixir:
+    code: 50
+    comments: 5
+    blanks: 11
+    files: 3
+  Julia:
+    code: 39
+    comments: 7
+    blanks: 7
+    files: 1
+  Sass:
+    code: 31
+    comments: 6
+    blanks: 8
+    files: 1
+  Protobuf:
+    code: 27
+    comments: 4
+    blanks: 10
+    files: 1
+  Dockerfile:
+    code: 17
+    comments: 10
+    blanks: 13
+    files: 1
+  TypeScript:
+    code: 13
+    comments: 2
+    blanks: 3
+    files: 1
+  Haskell:
+    code: 12
+    comments: 12
+    blanks: 4
+    files: 2
+  Jsx:
+    code: 12
+    comments: 6
+    blanks: 2
+    files: 1
+  R:
+    code: 11
+    comments: 1
+    blanks: 0
+    files: 1
+  Java:
+    code: 10
+    comments: 18
+    blanks: 2
+    files: 2
+  Lua:
+    code: 8
+    comments: 14
+    blanks: 8
+    files: 2
+  Css:
+    code: 6
+    comments: 1
+    blanks: 1
+    files: 1
+  Perl:
+    code: 6
+    comments: 3
+    blanks: 3
+    files: 1
+  Clojure:
+    code: 5
+    comments: 2
+    blanks: 2
+    files: 1
+  Php:
+    code: 5
+    comments: 2
+    blanks: 0
+    files: 1
+  PowerShell:
+    code: 5
+    comments: 4
+    blanks: 0
+    files: 1
+  Ruby:
+    code: 4
+    comments: 18
+    blanks: 8
+    files: 2
+  Markdown:
+    code: 0
+    comments: 3125
+    blanks: 1638
+    files: 104
+  Text:
+    code: 0
+    comments: 85
+    blanks: 26
+    files: 28
+total:
+  code: 170371
+  comments: 12974
+  blanks: 13997
+  files: 960
 ---
 date: "2026-08-24"
 repo:
