@@ -5,15 +5,15 @@ about:
   head: 4da60aa
   archived: false
   latestVersion: "v3.20.0"
-  collectedAt: 2026-09-07T05:05:47Z
+  collectedAt: 2026-09-07T19:29:37Z
 timeline:
   created: 2017-02-05
   lastCommit: 2026-09-06
   lastRelease: 2026-09-02
 popularity:
-  star: 6082
+  star: 6084
   watcher: 31
-  fork: 222
+  fork: 223
   release: 199
   contributor: 66
   pullRequest: 139
@@ -81,7 +81,7 @@ total:
   commit: 2083
 ---
 path: /home/runner/.x-repo/github.com/errata-ai/vale
-collectedAt: 2026-09-07T05:05:52Z
+collectedAt: 2026-09-07T19:29:44Z
 loc:
   Xml:
     code: 83725
@@ -395,7 +395,7 @@ checks:
       - 'Warn: 5 commits out of 6 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:05:53+00:00
+  collectedAt: 2026-09-07T19:29:45+00:00
   platform:
     darwin/arm64:
       name:  vale_3.20.0_macOS_arm64.tar.gz
