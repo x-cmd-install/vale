@@ -5,13 +5,13 @@ about:
   head: 4774ced
   archived: false
   latestVersion: "v3.20.0"
-  collectedAt: 2026-09-08T02:13:47Z
+  collectedAt: 2026-09-08T05:20:12Z
 timeline:
   created: 2017-02-05
   lastCommit: 2026-09-07
   lastRelease: 2026-09-02
 popularity:
-  star: 6083
+  star: 6085
   watcher: 31
   fork: 223
   release: 199
@@ -81,7 +81,7 @@ total:
   commit: 2086
 ---
 path: /home/runner/.x-repo/github.com/errata-ai/vale
-collectedAt: 2026-09-08T02:13:55Z
+collectedAt: 2026-09-08T05:20:17Z
 loc:
   Xml:
     code: 83725
