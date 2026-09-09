@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.20.0"
   latestRelease: "v3.20.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:18:45Z
+  collectedAt: 2026-09-09T19:21:32Z
 timeline:
   created: 2017-02-05
   lastCommit: 2026-09-09
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-02
   lastPrerelease: 
 popularity:
-  star: 6091
+  star: 6093
   watcher: 31
   fork: 223
   release: 199
   contributor: 67
   pullRequest: 139
-  issue: 844
+  issue: 845
 language:
   Go: 1007553
   Makefile: 2659
@@ -81,11 +81,11 @@ total:
   mergedPR: 99
   openPR: 1
   closedIssue: 818
-  openIssue: 26
+  openIssue: 27
   commit: 2092
 ---
 path: /home/runner/.x-repo/github.com/errata-ai/vale
-collectedAt: 2026-09-09T05:18:50Z
+collectedAt: 2026-09-09T19:21:43Z
 loc:
   Xml:
     code: 83725
