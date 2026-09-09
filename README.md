@@ -5,9 +5,9 @@
 - **Upstream**: <https://github.com/errata-ai/vale>
 - **Homepage**: <https://vale.sh>
 - **Latest release**: `v3.20.0` (2026-09-02)
-- **Last commit**: 2026-09-07
+- **Last commit**: 2026-09-09
 - **License**: MIT
-- **Stars**: 6086 · **Forks**: 223 · **Open issues**: 842 · **Contributors**: 67
+- **Stars**: 6091 · **Forks**: 223 · **Open issues**: 844 · **Contributors**: 67
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/vale> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:11:56Z._
+_Last regenerated: 2026-09-09T05:18:54Z._
