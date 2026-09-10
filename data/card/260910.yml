@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.21.0"
   latestRelease: "v3.21.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:46:00Z
+  collectedAt: 2026-09-10T23:02:29Z
 timeline:
   created: 2017-02-05
   lastCommit: 2026-09-10
@@ -85,7 +85,7 @@ total:
   commit: 2096
 ---
 path: /home/runner/.x-repo/github.com/errata-ai/vale
-collectedAt: 2026-09-10T20:46:05Z
+collectedAt: 2026-09-10T23:02:39Z
 loc:
   Xml:
     code: 83725
