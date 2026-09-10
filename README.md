@@ -21,17 +21,28 @@ x install vale
 ## Release
 
 - **Latest**: `v3.21.0` (2026-09-09)
-- **Last commit**: 2026-09-09
+- **Last commit**: 2026-09-10
 - **Assets in release**: 7
-- **Published**: 2026-09-09T22:20:35Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [vale_3.21.0_checksums.txt](https://github.com/errata-ai/vale/releases/download/v3.21.0/vale_3.21.0_checksums.txt) | 583 B | `other` |
+| [vale_3.21.0_Linux_64-bit.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.21.0/vale_3.21.0_Linux_64-bit.tar.gz) | 11.4 MiB | `native/unknown` |
+| [vale_3.21.0_Linux_arm64.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.21.0/vale_3.21.0_Linux_arm64.tar.gz) | 10.6 MiB | `native/linux/arm64` |
+| [vale_3.21.0_macOS_64-bit.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.21.0/vale_3.21.0_macOS_64-bit.tar.gz) | 11.4 MiB | `native/darwin/x64` |
+| [vale_3.21.0_macOS_arm64.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.21.0/vale_3.21.0_macOS_arm64.tar.gz) | 10.9 MiB | `native/darwin/arm64` |
+| [vale_3.21.0_Windows_64-bit.zip](https://github.com/errata-ai/vale/releases/download/v3.21.0/vale_3.21.0_Windows_64-bit.zip) | 11.6 MiB | `native/win/x64` |
+| [vale_3.21.0_Windows_arm64.zip](https://github.com/errata-ai/vale/releases/download/v3.21.0/vale_3.21.0_Windows_arm64.zip) | 10.8 MiB | `native/win/arm64` |
 
 ## Popularity
 
-- **Stars**: 6,094 · **Forks**: 223 · **Open issues**: 845 · **Contributors**: 67
+- **Stars**: 6,096 · **Forks**: 223 · **Open issues**: 845 · **Contributors**: 67
 
 ## Totals (cumulative)
 
-- **Releases**: 200 · **Merged PRs**: 99 · **Open PRs**: 1 · **Closed issues**: 818 · **Open issues**: 27 · **Commits**: 2094
+- **Releases**: 200 · **Merged PRs**: 99 · **Open PRs**: 1 · **Closed issues**: 818 · **Open issues**: 27 · **Commits**: 2096
 
 ## Recent activity
 
@@ -43,14 +54,14 @@ x install vale
 
 ## Code size
 
-Total: **174,438** lines of code across **717** files in the top 5 languages.
+Total: **174,571** lines of code across **717** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Xml | 83,725 | 1,635 | 2,262 | 91 |
 | XSL | 38,997 | 2,765 | 4,311 | 80 |
-| Go | 27,415 | 4,818 | 4,310 | 206 |
-| Yaml | 14,963 | 153 | 453 | 335 |
+| Go | 27,479 | 4,836 | 4,313 | 206 |
+| Yaml | 15,032 | 153 | 461 | 335 |
 | Rust | 2,595 | 48 | 188 | 5 |
 
 ## OpenSSF Scorecard
@@ -68,8 +79,8 @@ Lowest-scoring checks:
 Install metadata for vale lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `vale` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/vale.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/vale.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:18:57Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:48:16Z._

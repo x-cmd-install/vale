@@ -4,7 +4,7 @@
 
 :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 
-![vale](https://repo.x-cmd.io/vale.svg)
+![vale](https://repo.x-cmd.io/vale.svg?lang=zh)
 
 ## 安装
 
@@ -21,17 +21,28 @@ x install vale
 ## 发布
 
 - **最新版本**: `v3.21.0` (2026-09-09)
-- **最近提交**: 2026-09-09
+- **最近提交**: 2026-09-10
 - **Release 含资产**: 7 个
-- **发布时间**: 2026-09-09T22:20:35Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [vale_3.21.0_checksums.txt](https://github.com/errata-ai/vale/releases/download/v3.21.0/vale_3.21.0_checksums.txt) | 583 B | `other` |
+| [vale_3.21.0_Linux_64-bit.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.21.0/vale_3.21.0_Linux_64-bit.tar.gz) | 11.4 MiB | `native/unknown` |
+| [vale_3.21.0_Linux_arm64.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.21.0/vale_3.21.0_Linux_arm64.tar.gz) | 10.6 MiB | `native/linux/arm64` |
+| [vale_3.21.0_macOS_64-bit.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.21.0/vale_3.21.0_macOS_64-bit.tar.gz) | 11.4 MiB | `native/darwin/x64` |
+| [vale_3.21.0_macOS_arm64.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.21.0/vale_3.21.0_macOS_arm64.tar.gz) | 10.9 MiB | `native/darwin/arm64` |
+| [vale_3.21.0_Windows_64-bit.zip](https://github.com/errata-ai/vale/releases/download/v3.21.0/vale_3.21.0_Windows_64-bit.zip) | 11.6 MiB | `native/win/x64` |
+| [vale_3.21.0_Windows_arm64.zip](https://github.com/errata-ai/vale/releases/download/v3.21.0/vale_3.21.0_Windows_arm64.zip) | 10.8 MiB | `native/win/arm64` |
 
 ## 流行度
 
-- **Star**: 6,094 · **Fork**: 223 · **开放 issue**: 845 · **贡献者**: 67
+- **Star**: 6,096 · **Fork**: 223 · **开放 issue**: 845 · **贡献者**: 67
 
 ## 累计统计
 
-- **发布数**: 200 · **已合并 PR**: 99 · **开放 PR**: 1 · **已关闭 issue**: 818 · **开放 issue**: 27 · **提交数**: 2094
+- **发布数**: 200 · **已合并 PR**: 99 · **开放 PR**: 1 · **已关闭 issue**: 818 · **开放 issue**: 27 · **提交数**: 2096
 
 ## 最近活动
 
@@ -43,14 +54,14 @@ x install vale
 
 ## 代码规模
 
-合计: **174,438** 行代码（覆盖前 5 种语言、共 **717** 个文件）。
+合计: **174,571** 行代码（覆盖前 5 种语言、共 **717** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Xml | 83,725 | 1,635 | 2,262 | 91 |
 | XSL | 38,997 | 2,765 | 4,311 | 80 |
-| Go | 27,415 | 4,818 | 4,310 | 206 |
-| Yaml | 14,963 | 153 | 453 | 335 |
+| Go | 27,479 | 4,836 | 4,313 | 206 |
+| Yaml | 15,032 | 153 | 461 | 335 |
 | Rust | 2,595 | 48 | 188 | 5 |
 
 ## OpenSSF Scorecard 评分
@@ -72,4 +83,4 @@ vale 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:18:58Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:48:17Z._
