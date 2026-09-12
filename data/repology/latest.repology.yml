@@ -1,3 +1,36 @@
+- repo: nix_stable_24_11
+  srcname: vale
+  visiblename: vale
+  version: 3.9.1
+  origversion: null
+  status: outdated
+  summary: Syntax-aware linter for prose built with speed and extensibility in mind
+  maintainers:
+    - pbsds@hotmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: vale
+  visiblename: vale
+  version: 3.11.2
+  origversion: null
+  status: outdated
+  summary: Syntax-aware linter for prose built with speed and extensibility in mind
+  maintainers:
+    - pbsds@hotmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: vale
+  visiblename: vale
+  version: 3.14.1
+  origversion: null
+  status: outdated
+  summary: Syntax-aware linter for prose built with speed and extensibility in mind
+  maintainers:
+    - pbsds@hotmail.com
+  licenses:
+    - MIT
 - repo: alpine_3_21
   subrepo: community
   srcname: vale
@@ -130,17 +163,6 @@
     - MIT
 - repo: arch
   subrepo: extra
-  srcname: vale
-  binname: vale
-  visiblename: vale
-  version: 3.20.0
-  origversion: 3.20.0-1
-  status: outdated
-  summary: A markup-aware linter for prose built with speed and extensibility in mind
-  licenses:
-    - MIT
-- repo: arch_testing
-  subrepo: extra-testing
   srcname: vale
   binname: vale
   visiblename: vale
@@ -355,39 +377,6 @@
   origversion: null
   status: outdated
   summary: A syntax-aware linter for prose built with speed and extensibility in mind
-  maintainers:
-    - pbsds@hotmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: vale
-  visiblename: vale
-  version: 3.9.1
-  origversion: null
-  status: outdated
-  summary: Syntax-aware linter for prose built with speed and extensibility in mind
-  maintainers:
-    - pbsds@hotmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: vale
-  visiblename: vale
-  version: 3.11.2
-  origversion: null
-  status: outdated
-  summary: Syntax-aware linter for prose built with speed and extensibility in mind
-  maintainers:
-    - pbsds@hotmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: vale
-  visiblename: vale
-  version: 3.14.1
-  origversion: null
-  status: outdated
-  summary: Syntax-aware linter for prose built with speed and extensibility in mind
   maintainers:
     - pbsds@hotmail.com
   licenses:
