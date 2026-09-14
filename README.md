@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,100 · **Forks**: 224 · **Open issues**: 845 · **Contributors**: 67
+- **Stars**: 6,103 · **Forks**: 224 · **Open issues**: 847 · **Contributors**: 67
 
 ## Totals (cumulative)
 
-- **Releases**: 200 · **Merged PRs**: 99 · **Open PRs**: 1 · **Closed issues**: 818 · **Open issues**: 27 · **Commits**: 2096
+- **Releases**: 200 · **Merged PRs**: 99 · **Open PRs**: 1 · **Closed issues**: 818 · **Open issues**: 29 · **Commits**: 2096
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-15 | 8 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-17 | 12 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-18 | 15 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-23 | 28 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-15 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-16 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-18 | 12 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-19 | 15 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-24 | 28 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -77,19 +77,6 @@ Lowest-scoring checks:
 | [vale_3.21.0_Windows_64-bit.zip](https://github.com/errata-ai/vale/releases/download/v3.21.0/vale_3.21.0_Windows_64-bit.zip) | 11.6 MiB | `native/win/x64` |
 | [vale_3.21.0_Windows_arm64.zip](https://github.com/errata-ai/vale/releases/download/v3.21.0/vale_3.21.0_Windows_arm64.zip) | 10.8 MiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **39** distros on [repology.org](https://repology.org/project/vale). **6** are ✅ on the latest upstream release, **29** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `3.21.0` | ✅ latest |
-| Homebrew | `3.21.0` | ✅ latest |
-| Nix unstable | `3.17.1` | ⚠️ outdated |
-| Void | `3.13.0` | ⚠️ outdated |
-| Alpine edge | `3.19.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `3.17.1` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for vale lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `vale` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -99,4 +86,4 @@ Install metadata for vale lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:31:34Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:39:51Z._
