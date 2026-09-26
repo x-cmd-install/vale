@@ -42,40 +42,40 @@ x install vale
 
 ## 发布
 
-- **最新版本**: `v3.22.0` (2026-09-17)
+- **最新版本**: `v3.23.0` (2026-09-25)
 - **最近提交**: 2026-09-25
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 6,161 · **Fork**: 228 · **开放 issue**: 857 · **贡献者**: 68
+- **Star**: 6,163 · **Fork**: 228 · **开放 issue**: 857 · **贡献者**: 68
 
 ## 累计统计
 
-- **发布数**: 201 · **已合并 PR**: 103 · **开放 PR**: 0 · **已关闭 issue**: 842 · **开放 issue**: 15 · **提交数**: 2165
+- **发布数**: 202 · **已合并 PR**: 103 · **开放 PR**: 1 · **已关闭 issue**: 842 · **开放 issue**: 15 · **提交数**: 2165
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-27 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-27 | 9 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-29 | 12 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-30 | 16 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-05 | 29 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-27 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-28 | 9 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-28 | 10 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-30 | 13 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-01 | 17 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-06 | 30 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [vale_3.22.0_checksums.txt](https://github.com/errata-ai/vale/releases/download/v3.22.0/vale_3.22.0_checksums.txt) | 583 B | `other` |
-| [vale_3.22.0_Linux_64-bit.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.22.0/vale_3.22.0_Linux_64-bit.tar.gz) | 11.7 MiB | `native/unknown` |
-| [vale_3.22.0_Linux_arm64.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.22.0/vale_3.22.0_Linux_arm64.tar.gz) | 11.0 MiB | `native/linux/arm64` |
-| [vale_3.22.0_macOS_64-bit.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.22.0/vale_3.22.0_macOS_64-bit.tar.gz) | 11.6 MiB | `native/darwin/x64` |
-| [vale_3.22.0_macOS_arm64.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.22.0/vale_3.22.0_macOS_arm64.tar.gz) | 11.3 MiB | `native/darwin/arm64` |
-| [vale_3.22.0_Windows_64-bit.zip](https://github.com/errata-ai/vale/releases/download/v3.22.0/vale_3.22.0_Windows_64-bit.zip) | 11.9 MiB | `native/win/x64` |
-| [vale_3.22.0_Windows_arm64.zip](https://github.com/errata-ai/vale/releases/download/v3.22.0/vale_3.22.0_Windows_arm64.zip) | 11.1 MiB | `native/win/arm64` |
+| [vale_3.23.0_checksums.txt](https://github.com/errata-ai/vale/releases/download/v3.23.0/vale_3.23.0_checksums.txt) | 583 B | `other` |
+| [vale_3.23.0_Linux_64-bit.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.23.0/vale_3.23.0_Linux_64-bit.tar.gz) | 12.1 MiB | `native/unknown` |
+| [vale_3.23.0_Linux_arm64.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.23.0/vale_3.23.0_Linux_arm64.tar.gz) | 11.4 MiB | `native/linux/arm64` |
+| [vale_3.23.0_macOS_64-bit.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.23.0/vale_3.23.0_macOS_64-bit.tar.gz) | 12.1 MiB | `native/darwin/x64` |
+| [vale_3.23.0_macOS_arm64.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.23.0/vale_3.23.0_macOS_arm64.tar.gz) | 11.7 MiB | `native/darwin/arm64` |
+| [vale_3.23.0_Windows_64-bit.zip](https://github.com/errata-ai/vale/releases/download/v3.23.0/vale_3.23.0_Windows_64-bit.zip) | 12.4 MiB | `native/win/x64` |
+| [vale_3.23.0_Windows_arm64.zip](https://github.com/errata-ai/vale/releases/download/v3.23.0/vale_3.23.0_Windows_arm64.zip) | 11.6 MiB | `native/win/arm64` |
 
 ## 改进这些数据
 
@@ -86,4 +86,4 @@ vale 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260925.yml` · 2026-09-25T05:21:11Z._
+_数据快照: `data/card/260926.yml` · 2026-09-26T05:23:35Z._
