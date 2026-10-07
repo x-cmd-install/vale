@@ -26,11 +26,11 @@ x install vale
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.2 / 10**
+总评分: **5.3 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 2/27 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 1/30 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -48,22 +48,22 @@ x install vale
 
 ## 流行度
 
-- **Star**: 6,205 · **Fork**: 230 · **开放 issue**: 860 · **贡献者**: 68
+- **Star**: 6,210 · **Fork**: 232 · **开放 issue**: 860 · **贡献者**: 68
 
 ## 累计统计
 
-- **发布数**: 203 · **已合并 PR**: 104 · **开放 PR**: 0 · **已关闭 issue**: 845 · **开放 issue**: 15 · **提交数**: 2186
+- **发布数**: 203 · **已合并 PR**: 104 · **开放 PR**: 1 · **已关闭 issue**: 845 · **开放 issue**: 15 · **提交数**: 2186
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-07 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-08 | 11 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-09 | 14 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-11 | 18 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-16 | 31 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-07 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-08 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-09 | 11 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-10 | 14 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-12 | 18 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-17 | 31 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
@@ -86,4 +86,4 @@ vale 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261006.yml` · 2026-10-06T06:47:43Z._
+_数据快照: `data/card/261007.yml` · 2026-10-07T06:24:08Z._
