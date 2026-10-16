@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,238 · **Forks**: 234 · **Open issues**: 867 · **Contributors**: 67
+- **Stars**: 6,244 · **Forks**: 234 · **Open issues**: 868 · **Contributors**: 67
 
 ## Totals (cumulative)
 
-- **Releases**: 203 · **Merged PRs**: 103 · **Open PRs**: 3 · **Closed issues**: 845 · **Open issues**: 22 · **Commits**: 2186
+- **Releases**: 203 · **Merged PRs**: 103 · **Open PRs**: 3 · **Closed issues**: 845 · **Open issues**: 23 · **Commits**: 2186
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-16 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-17 | 11 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-18 | 14 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-20 | 18 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-25 | 30 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-16 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-17 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-18 | 11 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-19 | 14 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-21 | 18 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-26 | 30 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for vale lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T05:00:23Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T04:59:07Z._
