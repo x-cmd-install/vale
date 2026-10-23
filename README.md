@@ -14,14 +14,14 @@ x install vale
 
 ## Code insight
 
-Total: **186,664** lines of code across **783** files in the top 5 languages.
+Total: **187,157** lines of code across **788** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Xml | 83,725 | 1,635 | 2,262 | 91 |
 | XSL | 38,997 | 2,765 | 4,311 | 80 |
-| Go | 35,367 | 6,039 | 5,150 | 253 |
-| Yaml | 19,072 | 188 | 704 | 354 |
+| Go | 35,676 | 6,088 | 5,188 | 257 |
+| Yaml | 19,256 | 190 | 718 | 355 |
 | Rust | 2,595 | 48 | 188 | 5 |
 
 ## OpenSSF Scorecard
@@ -42,40 +42,53 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v3.24.0` (2026-10-01)
-- **Last commit**: 2026-10-16
+- **Latest**: `v3.25.1` (2026-10-22)
+- **Last commit**: 2026-10-22
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 6,272 · **Forks**: 236 · **Open issues**: 874 · **Contributors**: 67
+- **Stars**: 6,279 · **Forks**: 236 · **Open issues**: 876 · **Contributors**: 67
 
 ## Totals (cumulative)
 
-- **Releases**: 203 · **Merged PRs**: 104 · **Open PRs**: 1 · **Closed issues**: 853 · **Open issues**: 21 · **Commits**: 2197
+- **Releases**: 205 · **Merged PRs**: 104 · **Open PRs**: 1 · **Closed issues**: 858 · **Open issues**: 18 · **Commits**: 2202
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-24 | 10 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-25 | 14 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-27 | 17 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-01 | 30 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-23 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-25 | 12 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-26 | 16 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-28 | 19 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-02 | 32 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [vale_3.24.0_checksums.txt](https://github.com/errata-ai/vale/releases/download/v3.24.0/vale_3.24.0_checksums.txt) | 583 B | `other` |
-| [vale_3.24.0_Linux_64-bit.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.24.0/vale_3.24.0_Linux_64-bit.tar.gz) | 12.4 MiB | `native/unknown` |
-| [vale_3.24.0_Linux_arm64.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.24.0/vale_3.24.0_Linux_arm64.tar.gz) | 11.7 MiB | `native/linux/arm64` |
-| [vale_3.24.0_macOS_64-bit.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.24.0/vale_3.24.0_macOS_64-bit.tar.gz) | 12.4 MiB | `native/darwin/x64` |
-| [vale_3.24.0_macOS_arm64.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.24.0/vale_3.24.0_macOS_arm64.tar.gz) | 12.1 MiB | `native/darwin/arm64` |
-| [vale_3.24.0_Windows_64-bit.zip](https://github.com/errata-ai/vale/releases/download/v3.24.0/vale_3.24.0_Windows_64-bit.zip) | 12.7 MiB | `native/win/x64` |
-| [vale_3.24.0_Windows_arm64.zip](https://github.com/errata-ai/vale/releases/download/v3.24.0/vale_3.24.0_Windows_arm64.zip) | 11.9 MiB | `native/win/arm64` |
+| [vale_3.25.1_checksums.txt](https://github.com/errata-ai/vale/releases/download/v3.25.1/vale_3.25.1_checksums.txt) | 583 B | `other` |
+| [vale_3.25.1_Linux_64-bit.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.25.1/vale_3.25.1_Linux_64-bit.tar.gz) | 12.5 MiB | `native/unknown` |
+| [vale_3.25.1_Linux_arm64.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.25.1/vale_3.25.1_Linux_arm64.tar.gz) | 11.8 MiB | `native/linux/arm64` |
+| [vale_3.25.1_macOS_64-bit.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.25.1/vale_3.25.1_macOS_64-bit.tar.gz) | 12.5 MiB | `native/darwin/x64` |
+| [vale_3.25.1_macOS_arm64.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.25.1/vale_3.25.1_macOS_arm64.tar.gz) | 12.1 MiB | `native/darwin/arm64` |
+| [vale_3.25.1_Windows_64-bit.zip](https://github.com/errata-ai/vale/releases/download/v3.25.1/vale_3.25.1_Windows_64-bit.zip) | 12.7 MiB | `native/win/x64` |
+| [vale_3.25.1_Windows_arm64.zip](https://github.com/errata-ai/vale/releases/download/v3.25.1/vale_3.25.1_Windows_arm64.zip) | 11.9 MiB | `native/win/arm64` |
+
+## Distribution status
+
+Reported by **40** distros on [repology.org](https://repology.org/project/vale). **3** are ✅ on the latest upstream release, **33** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `3.24.0` | ⚠️ outdated |
+| Homebrew | `3.25.1` | ✅ latest |
+| Nix unstable | `3.17.1` | ⚠️ outdated |
+| Void | `3.13.0` | ⚠️ outdated |
+| Alpine edge | `3.24.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `3.17.1` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -86,4 +99,4 @@ Install metadata for vale lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:15:08Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:17:05Z._
