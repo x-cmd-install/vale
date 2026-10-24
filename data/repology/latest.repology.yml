@@ -5,28 +5,6 @@
   origversion: null
   status: outdated
   summary: Vale — the customizable linter for prose.
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: vale
-  binname: vale
-  visiblename: vale
-  version: 3.24.0
-  origversion: 3.24.0-1
-  status: outdated
-  summary: A markup-aware linter for prose built with speed and extensibility in mind
-  licenses:
-    - MIT
-- repo: nix_stable_24_05
-  srcname: vale
-  visiblename: vale
-  version: 3.4.2
-  origversion: null
-  status: outdated
-  summary: A syntax-aware linter for prose built with speed and extensibility in mind
-  maintainers:
-    - pbsds@hotmail.com
-  licenses:
-    - MIT
 - repo: alpine_3_21
   subrepo: community
   srcname: vale
@@ -38,18 +16,6 @@
   summary: A markup-aware linter for prose built with speed and extensibility in mind
   maintainers:
     - fossdd@pwned.life
-  licenses:
-    - MIT
-- repo: aur
-  srcname: vale-git
-  binname: vale-git
-  visiblename: vale-git
-  version: 3.7.1.r0.g871dafd1
-  origversion: 3.7.1.r0.g871dafd1-1
-  status: rolling
-  summary: A syntax-aware linter for prose built with speed and extensibility in mind.
-  maintainers:
-    - yuanji@aur
   licenses:
     - MIT
 - repo: alpine_3_21
@@ -174,29 +140,30 @@
   srcname: vale
   binname: vale
   visiblename: vale
-  version: 3.24.0
-  origversion: 3.24.0-1
-  status: outdated
-  summary: A markup-aware linter for prose built with speed and extensibility in mind
-  licenses:
-    - MIT
-- repo: arch_testing
-  subrepo: extra-testing
-  srcname: vale
-  binname: vale
-  visiblename: vale
   version: 3.25.1
   origversion: 3.25.1-1
   status: newest
   summary: A markup-aware linter for prose built with speed and extensibility in mind
   licenses:
     - MIT
+- repo: aur
+  srcname: vale-git
+  binname: vale-git
+  visiblename: vale-git
+  version: 3.7.1.r0.g871dafd1
+  origversion: 3.7.1.r0.g871dafd1-1
+  status: rolling
+  summary: A syntax-aware linter for prose built with speed and extensibility in mind.
+  maintainers:
+    - yuanji@aur
+  licenses:
+    - MIT
 - repo: freebsd
   srcname: textproc/vale
   binname: vale
   visiblename: textproc/vale
-  version: 3.24.0
-  origversion: 3.24.0_1
+  version: 3.25.0
+  origversion: null
   status: outdated
   summary: Command-line tool that brings editorial style guide to life
   maintainers:
@@ -359,6 +326,28 @@
   summary: A markup-aware linter for prose built with speed and extensibility in mind
   licenses:
     - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: vale
+  binname: vale
+  visiblename: vale
+  version: 3.25.1
+  origversion: 3.25.1-1
+  status: newest
+  summary: A markup-aware linter for prose built with speed and extensibility in mind
+  licenses:
+    - MIT
+- repo: nix_stable_24_05
+  srcname: vale
+  visiblename: vale
+  version: 3.4.2
+  origversion: null
+  status: outdated
+  summary: A syntax-aware linter for prose built with speed and extensibility in mind
+  maintainers:
+    - pbsds@hotmail.com
+  licenses:
+    - MIT
 - repo: nix_stable_24_11
   srcname: vale
   visiblename: vale
@@ -478,9 +467,9 @@
   srcname: vale
   binname: vale
   visiblename: vale
-  version: 3.24.0
+  version: 3.25.1
   origversion: null
-  status: outdated
+  status: newest
   summary: A syntax-aware linter for prose built with speed and extensibility in mind
   maintainers:
     - termux@github
