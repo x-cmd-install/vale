@@ -1,12 +1,3 @@
-- repo: scoop
-  subrepo: main
-  binname: vale
-  visiblename: vale
-  version: 3.25.1
-  origversion: null
-  status: newest
-  licenses:
-    - MIT
 - repo: alpine_3_21
   subrepo: community
   srcname: vale
@@ -98,6 +89,18 @@
     - achill@achill.org
   licenses:
     - MIT
+- repo: opensuse_leap_15_6
+  subrepo: main/oss
+  srcname: vale
+  visiblename: vale
+  version: 2.28.3
+  origversion: 2.28.3-bp156.1.11
+  status: outdated
+  summary: CLI tool to lint prose text with syntax awareneness and extensible markup format support
+  licenses:
+    - MIT
+  categories:
+    - Productivity/Text/Utilities
 - repo: alpine_3_24
   subrepo: community
   srcname: vale
@@ -163,9 +166,9 @@
 - repo: chocolatey
   binname: vale
   visiblename: Vale
-  version: 3.24.0
+  version: 3.25.1
   origversion: null
-  status: outdated
+  status: newest
   summary: Vale — the customizable linter for prose.
 - repo: freebsd
   srcname: textproc/vale
@@ -424,18 +427,6 @@
     - MIT
   categories:
     - Productivity/Text/Utilities
-- repo: opensuse_leap_15_6
-  subrepo: main/oss
-  srcname: vale
-  visiblename: vale
-  version: 2.28.3
-  origversion: 2.28.3-bp156.1.11
-  status: outdated
-  summary: CLI tool to lint prose text with syntax awareneness and extensible markup format support
-  licenses:
-    - MIT
-  categories:
-    - Productivity/Text/Utilities
 - repo: opensuse_tumbleweed
   subrepo: src-oss
   srcname: vale
@@ -461,6 +452,15 @@
   origversion: 3.25.1-1
   status: newest
   summary: A markup-aware linter for prose built with speed and extensibility in mind
+  licenses:
+    - MIT
+- repo: scoop
+  subrepo: main
+  binname: vale
+  visiblename: vale
+  version: 3.25.1
+  origversion: null
+  status: newest
   licenses:
     - MIT
 - repo: termux
