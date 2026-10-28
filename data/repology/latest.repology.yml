@@ -1,3 +1,15 @@
+- repo: opensuse_leap_15_6
+  subrepo: main/oss
+  srcname: vale
+  visiblename: vale
+  version: 2.28.3
+  origversion: 2.28.3-bp156.1.11
+  status: outdated
+  summary: CLI tool to lint prose text with syntax awareneness and extensible markup format support
+  licenses:
+    - MIT
+  categories:
+    - Productivity/Text/Utilities
 - repo: alpine_3_21
   subrepo: community
   srcname: vale
@@ -35,6 +47,17 @@
   summary: A markup-aware linter for prose built with speed and extensibility in mind
   maintainers:
     - fossdd@pwned.life
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: vale
+  visiblename: vale
+  version: 3.9.1
+  origversion: null
+  status: outdated
+  summary: Syntax-aware linter for prose built with speed and extensibility in mind
+  maintainers:
+    - pbsds@hotmail.com
   licenses:
     - MIT
 - repo: alpine_3_22
@@ -89,18 +112,6 @@
     - achill@achill.org
   licenses:
     - MIT
-- repo: opensuse_leap_15_6
-  subrepo: main/oss
-  srcname: vale
-  visiblename: vale
-  version: 2.28.3
-  origversion: 2.28.3-bp156.1.11
-  status: outdated
-  summary: CLI tool to lint prose text with syntax awareneness and extensible markup format support
-  licenses:
-    - MIT
-  categories:
-    - Productivity/Text/Utilities
 - repo: alpine_3_24
   subrepo: community
   srcname: vale
@@ -174,14 +185,25 @@
   srcname: textproc/vale
   binname: vale
   visiblename: textproc/vale
-  version: 3.25.0
+  version: 3.25.1
   origversion: null
-  status: outdated
+  status: newest
   summary: Command-line tool that brings editorial style guide to life
   maintainers:
     - bofh@freebsd.org
   categories:
     - textproc
+- repo: nix_stable_25_05
+  srcname: vale
+  visiblename: vale
+  version: 3.11.2
+  origversion: null
+  status: outdated
+  summary: Syntax-aware linter for prose built with speed and extensibility in mind
+  maintainers:
+    - pbsds@hotmail.com
+  licenses:
+    - MIT
 - repo: gentoo_ovl_guru
   srcname: app-text/vale
   visiblename: app-text/vale
@@ -356,28 +378,6 @@
   origversion: null
   status: outdated
   summary: A syntax-aware linter for prose built with speed and extensibility in mind
-  maintainers:
-    - pbsds@hotmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: vale
-  visiblename: vale
-  version: 3.9.1
-  origversion: null
-  status: outdated
-  summary: Syntax-aware linter for prose built with speed and extensibility in mind
-  maintainers:
-    - pbsds@hotmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: vale
-  visiblename: vale
-  version: 3.11.2
-  origversion: null
-  status: outdated
-  summary: Syntax-aware linter for prose built with speed and extensibility in mind
   maintainers:
     - pbsds@hotmail.com
   licenses:
