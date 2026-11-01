@@ -1,14 +1,12 @@
-- repo: alpine_3_21
-  subrepo: community
+- repo: nix_stable_24_05
   srcname: vale
-  binname: vale
   visiblename: vale
-  version: 3.9.1
-  origversion: 3.9.1-r5
+  version: 3.4.2
+  origversion: null
   status: outdated
-  summary: A markup-aware linter for prose built with speed and extensibility in mind
+  summary: A syntax-aware linter for prose built with speed and extensibility in mind
   maintainers:
-    - fossdd@pwned.life
+    - pbsds@hotmail.com
   licenses:
     - MIT
 - repo: alpine_3_21
@@ -22,6 +20,30 @@
   summary: A markup-aware linter for prose built with speed and extensibility in mind (documentation)
   maintainers:
     - fossdd@pwned.life
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: vale
+  binname: vale
+  visiblename: vale
+  version: 3.9.1
+  origversion: 3.9.1-r5
+  status: outdated
+  summary: A markup-aware linter for prose built with speed and extensibility in mind
+  maintainers:
+    - fossdd@pwned.life
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: vale
+  binname: vale
+  visiblename: vale
+  version: 3.25.1
+  origversion: 3.25.1-1
+  status: outdated
+  summary: A markup-aware linter for prose built with speed and extensibility in mind
   licenses:
     - MIT
 - repo: alpine_3_22
@@ -109,7 +131,7 @@
   visiblename: vale
   version: 3.25.1
   origversion: 3.25.1-r1
-  status: newest
+  status: outdated
   summary: A markup-aware linter for prose built with speed and extensibility in mind
   maintainers:
     - achill@achill.org
@@ -122,7 +144,7 @@
   visiblename: vale-doc
   version: 3.25.1
   origversion: 3.25.1-r1
-  status: newest
+  status: outdated
   summary: A markup-aware linter for prose built with speed and extensibility in mind (documentation)
   maintainers:
     - achill@achill.org
@@ -135,6 +157,17 @@
   visiblename: vale
   version: 3.25.1
   origversion: 3.25.1-1
+  status: outdated
+  summary: A markup-aware linter for prose built with speed and extensibility in mind
+  licenses:
+    - MIT
+- repo: arch_testing
+  subrepo: extra-testing
+  srcname: vale
+  binname: vale
+  visiblename: vale
+  version: 3.26.0
+  origversion: 3.26.0-1
   status: newest
   summary: A markup-aware linter for prose built with speed and extensibility in mind
   licenses:
@@ -156,7 +189,7 @@
   visiblename: Vale
   version: 3.25.1
   origversion: null
-  status: newest
+  status: outdated
   summary: Vale — the customizable linter for prose.
 - repo: freebsd
   srcname: textproc/vale
@@ -164,7 +197,7 @@
   visiblename: textproc/vale
   version: 3.25.1
   origversion: null
-  status: newest
+  status: outdated
   summary: Command-line tool that brings editorial style guide to life
   maintainers:
     - bofh@freebsd.org
@@ -215,7 +248,7 @@
 - repo: homebrew
   srcname: vale
   visiblename: vale
-  version: 3.25.1
+  version: 3.26.0
   origversion: null
   status: newest
   summary: Syntax-aware linter for prose
@@ -326,28 +359,6 @@
   summary: A markup-aware linter for prose built with speed and extensibility in mind
   licenses:
     - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: vale
-  binname: vale
-  visiblename: vale
-  version: 3.25.1
-  origversion: 3.25.1-1
-  status: newest
-  summary: A markup-aware linter for prose built with speed and extensibility in mind
-  licenses:
-    - MIT
-- repo: nix_stable_24_05
-  srcname: vale
-  visiblename: vale
-  version: 3.4.2
-  origversion: null
-  status: outdated
-  summary: A syntax-aware linter for prose built with speed and extensibility in mind
-  maintainers:
-    - pbsds@hotmail.com
-  licenses:
-    - MIT
 - repo: nix_stable_24_11
   srcname: vale
   visiblename: vale
@@ -397,7 +408,7 @@
   visiblename: vale
   version: 3.25.1
   origversion: null
-  status: newest
+  status: outdated
   summary: Syntax-aware linter for prose built with speed and extensibility in mind
   maintainers:
     - pbsds@hotmail.com
@@ -450,7 +461,7 @@
   visiblename: vale
   version: 3.25.1
   origversion: 3.25.1-1
-  status: newest
+  status: outdated
   summary: A markup-aware linter for prose built with speed and extensibility in mind
   licenses:
     - MIT
@@ -458,7 +469,7 @@
   subrepo: main
   binname: vale
   visiblename: vale
-  version: 3.25.1
+  version: 3.26.0
   origversion: null
   status: newest
   licenses:
@@ -467,7 +478,7 @@
   srcname: vale
   binname: vale
   visiblename: vale
-  version: 3.25.1
+  version: 3.26.0
   origversion: null
   status: newest
   summary: A syntax-aware linter for prose built with speed and extensibility in mind
