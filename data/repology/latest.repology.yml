@@ -1,12 +1,34 @@
-- repo: nix_stable_24_05
+- repo: parabola
+  subrepo: extra
   srcname: vale
+  binname: vale
   visiblename: vale
-  version: 3.4.2
+  version: 3.26.0
+  origversion: 3.26.0-1
+  status: newest
+  summary: A markup-aware linter for prose built with speed and extensibility in mind
+  licenses:
+    - MIT
+- repo: scoop
+  subrepo: main
+  binname: vale
+  visiblename: vale
+  version: 3.26.0
   origversion: null
+  status: newest
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: vale
+  binname: vale
+  visiblename: vale
+  version: 3.9.1
+  origversion: 3.9.1-r5
   status: outdated
-  summary: A syntax-aware linter for prose built with speed and extensibility in mind
+  summary: A markup-aware linter for prose built with speed and extensibility in mind
   maintainers:
-    - pbsds@hotmail.com
+    - fossdd@pwned.life
   licenses:
     - MIT
 - repo: alpine_3_21
@@ -20,30 +42,6 @@
   summary: A markup-aware linter for prose built with speed and extensibility in mind (documentation)
   maintainers:
     - fossdd@pwned.life
-  licenses:
-    - MIT
-- repo: alpine_3_21
-  subrepo: community
-  srcname: vale
-  binname: vale
-  visiblename: vale
-  version: 3.9.1
-  origversion: 3.9.1-r5
-  status: outdated
-  summary: A markup-aware linter for prose built with speed and extensibility in mind
-  maintainers:
-    - fossdd@pwned.life
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: vale
-  binname: vale
-  visiblename: vale
-  version: 3.25.1
-  origversion: 3.25.1-1
-  status: outdated
-  summary: A markup-aware linter for prose built with speed and extensibility in mind
   licenses:
     - MIT
 - repo: alpine_3_22
@@ -155,17 +153,6 @@
   srcname: vale
   binname: vale
   visiblename: vale
-  version: 3.25.1
-  origversion: 3.25.1-1
-  status: outdated
-  summary: A markup-aware linter for prose built with speed and extensibility in mind
-  licenses:
-    - MIT
-- repo: arch_testing
-  subrepo: extra-testing
-  srcname: vale
-  binname: vale
-  visiblename: vale
   version: 3.26.0
   origversion: 3.26.0-1
   status: newest
@@ -187,17 +174,17 @@
 - repo: chocolatey
   binname: vale
   visiblename: Vale
-  version: 3.25.1
+  version: 3.26.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Vale — the customizable linter for prose.
 - repo: freebsd
   srcname: textproc/vale
   binname: vale
   visiblename: textproc/vale
-  version: 3.25.1
+  version: 3.26.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Command-line tool that brings editorial style guide to life
   maintainers:
     - bofh@freebsd.org
@@ -337,26 +324,26 @@
     - Public-Domain
   categories:
     - textproc
-- repo: manjaro_stable
+- repo: manjaro_unstable
   subrepo: extra
   srcname: vale
   binname: vale
   visiblename: vale
-  version: 3.20.0
-  origversion: 3.20.0-1
+  version: 3.25.1
+  origversion: 3.25.1-1
   status: outdated
   summary: A markup-aware linter for prose built with speed and extensibility in mind
   licenses:
     - MIT
-- repo: manjaro_testing
-  subrepo: extra
+- repo: nix_stable_24_05
   srcname: vale
-  binname: vale
   visiblename: vale
-  version: 3.24.0
-  origversion: 3.24.0-1
+  version: 3.4.2
+  origversion: null
   status: outdated
-  summary: A markup-aware linter for prose built with speed and extensibility in mind
+  summary: A syntax-aware linter for prose built with speed and extensibility in mind
+  maintainers:
+    - pbsds@hotmail.com
   licenses:
     - MIT
 - repo: nix_stable_24_11
@@ -454,26 +441,6 @@
     - MIT
   categories:
     - Productivity/Text/Utilities
-- repo: parabola
-  subrepo: extra
-  srcname: vale
-  binname: vale
-  visiblename: vale
-  version: 3.25.1
-  origversion: 3.25.1-1
-  status: outdated
-  summary: A markup-aware linter for prose built with speed and extensibility in mind
-  licenses:
-    - MIT
-- repo: scoop
-  subrepo: main
-  binname: vale
-  visiblename: vale
-  version: 3.26.0
-  origversion: null
-  status: newest
-  licenses:
-    - MIT
 - repo: termux
   srcname: vale
   binname: vale
