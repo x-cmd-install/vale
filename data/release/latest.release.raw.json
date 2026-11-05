@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 673,
       "digest": "sha256:b5febf58cb2cd515a1b98dde463fdf4c5796efda0b4d698374c2dac9d4c73638",
-      "download_count": 5668,
+      "download_count": 7487,
       "created_at": "2026-10-31T15:04:45Z",
       "updated_at": "2026-10-31T15:04:45Z",
       "browser_download_url": "https://github.com/vale-cli/vale/releases/download/v3.26.0/vale_3.26.0_checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 13090539,
       "digest": "sha256:22aa69a556558e4a9dfc63c17030777383d8d3c48dcdfad655fa98e839d666ed",
-      "download_count": 15159,
+      "download_count": 20968,
       "created_at": "2026-10-31T15:04:43Z",
       "updated_at": "2026-10-31T15:04:44Z",
       "browser_download_url": "https://github.com/vale-cli/vale/releases/download/v3.26.0/vale_3.26.0_Linux_64-bit.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 12333598,
       "digest": "sha256:3154179f4611140c9af54a8b3bc6a90bc02b73fe6c1f635369604dde0490406d",
-      "download_count": 309,
+      "download_count": 464,
       "created_at": "2026-10-31T15:04:43Z",
       "updated_at": "2026-10-31T15:04:44Z",
       "browser_download_url": "https://github.com/vale-cli/vale/releases/download/v3.26.0/vale_3.26.0_Linux_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 13078860,
       "digest": "sha256:df42b317be6ece6a6a70d06b952deec581d047046eb93ea4632f58da56a86ff9",
-      "download_count": 49,
+      "download_count": 57,
       "created_at": "2026-10-31T15:04:44Z",
       "updated_at": "2026-10-31T15:04:45Z",
       "browser_download_url": "https://github.com/vale-cli/vale/releases/download/v3.26.0/vale_3.26.0_macOS_64-bit.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 12746461,
       "digest": "sha256:a6c3370f53bad93086c6b85f3163676e44e08049d69743afdcc13f3aab5b7482",
-      "download_count": 610,
+      "download_count": 812,
       "created_at": "2026-10-31T15:04:44Z",
       "updated_at": "2026-10-31T15:04:45Z",
       "browser_download_url": "https://github.com/vale-cli/vale/releases/download/v3.26.0/vale_3.26.0_macOS_arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 9463154,
       "digest": "sha256:da61d53f97b724f133fe490fc0f53c8895f8e2f43cd5decbb089298f916f1307",
-      "download_count": 227,
+      "download_count": 280,
       "created_at": "2026-10-31T15:04:44Z",
       "updated_at": "2026-10-31T15:04:45Z",
       "browser_download_url": "https://github.com/vale-cli/vale/releases/download/v3.26.0/vale_3.26.0_wasm.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 13364281,
       "digest": "sha256:c42f4b413aa29b6b36fa4e3ac0c18322588a54ac860db4c84b8255997f7d1ec2",
-      "download_count": 1227,
+      "download_count": 1576,
       "created_at": "2026-10-31T15:04:43Z",
       "updated_at": "2026-10-31T15:04:44Z",
       "browser_download_url": "https://github.com/vale-cli/vale/releases/download/v3.26.0/vale_3.26.0_Windows_64-bit.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 12511016,
       "digest": "sha256:673b27eea6e70ad25f99c5687b63c987a72a5ceadc6c9e730da50df6ba1fb022",
-      "download_count": 30,
+      "download_count": 36,
       "created_at": "2026-10-31T15:04:43Z",
       "updated_at": "2026-10-31T15:04:44Z",
       "browser_download_url": "https://github.com/vale-cli/vale/releases/download/v3.26.0/vale_3.26.0_Windows_arm64.zip"
