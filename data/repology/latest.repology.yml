@@ -304,7 +304,18 @@
     - Public-Domain
   categories:
     - textproc
-- repo: manjaro_unstable
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: vale
+  binname: vale
+  visiblename: vale
+  version: 3.24.0
+  origversion: 3.24.0-1
+  status: outdated
+  summary: A markup-aware linter for prose built with speed and extensibility in mind
+  licenses:
+    - MIT
+- repo: manjaro_testing
   subrepo: extra
   srcname: vale
   binname: vale
@@ -312,6 +323,17 @@
   version: 3.25.1
   origversion: 3.25.1-1
   status: outdated
+  summary: A markup-aware linter for prose built with speed and extensibility in mind
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: vale
+  binname: vale
+  visiblename: vale
+  version: 3.26.0
+  origversion: 3.26.0-1
+  status: newest
   summary: A markup-aware linter for prose built with speed and extensibility in mind
   licenses:
     - MIT
