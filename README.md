@@ -26,11 +26,11 @@ Total: **190,515** lines of code across **819** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.1 / 10**
+Overall score: **5.3 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 1/30 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,346 · **Forks**: 238 · **Open issues**: 881 · **Contributors**: 66
+- **Stars**: 6,354 · **Forks**: 239 · **Open issues**: 882 · **Contributors**: 66
 
 ## Totals (cumulative)
 
-- **Releases**: 206 · **Merged PRs**: 104 · **Open PRs**: 1 · **Closed issues**: 865 · **Open issues**: 16 · **Commits**: 2227
+- **Releases**: 206 · **Merged PRs**: 104 · **Open PRs**: 2 · **Closed issues**: 865 · **Open issues**: 17 · **Commits**: 2227
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-09 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-10 | 10 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-12 | 17 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-13 | 20 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-18 | 32 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-10 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-10 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-11 | 10 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-13 | 17 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-14 | 20 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-19 | 31 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -80,7 +80,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **39** distros on [repology.org](https://repology.org/project/vale). **9** are ✅ on the latest upstream release, **26** are ⚠️ on an older version.
+Reported by **39** distros on [repology.org](https://repology.org/project/vale). **10** are ✅ on the latest upstream release, **25** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -100,4 +100,4 @@ Install metadata for vale lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:39:51Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T07:02:10Z._
