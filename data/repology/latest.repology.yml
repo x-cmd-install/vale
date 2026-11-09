@@ -320,9 +320,9 @@
   srcname: vale
   binname: vale
   visiblename: vale
-  version: 3.25.1
-  origversion: 3.25.1-1
-  status: outdated
+  version: 3.26.0
+  origversion: 3.26.0-1
+  status: newest
   summary: A markup-aware linter for prose built with speed and extensibility in mind
   licenses:
     - MIT
