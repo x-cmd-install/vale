@@ -14,14 +14,14 @@ x install vale
 
 ## 代码洞察
 
-合计: **190,515** 行代码（覆盖前 5 种语言、共 **819** 个文件）。
+合计: **191,293** 行代码（覆盖前 5 种语言、共 **830** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Xml | 83,732 | 1,635 | 2,262 | 92 |
 | XSL | 39,008 | 2,765 | 4,311 | 81 |
-| Go | 38,244 | 6,597 | 5,548 | 281 |
-| Yaml | 19,670 | 201 | 754 | 360 |
+| Go | 38,677 | 6,754 | 5,640 | 284 |
+| Yaml | 19,987 | 207 | 775 | 368 |
 | Rust | 2,595 | 48 | 188 | 5 |
 
 ## OpenSSF Scorecard 评分
@@ -42,51 +42,73 @@ x install vale
 
 ## 发布
 
-- **最新版本**: `v3.26.0` (2026-10-31)
-- **最近提交**: 2026-11-07
-- **Release 含资产**: 8 个
+- **最新版本**: `v3.27.0` (2026-11-12)
+- **最近提交**: 2026-11-12
+- **Release 含资产**: 30 个
 
 ## 流行度
 
-- **Star**: 6,378 · **Fork**: 240 · **开放 issue**: 882 · **贡献者**: 67
+- **Star**: 6,385 · **Fork**: 240 · **开放 issue**: 883 · **贡献者**: 68
 
 ## 累计统计
 
-- **发布数**: 206 · **已合并 PR**: 105 · **开放 PR**: 2 · **已关闭 issue**: 865 · **开放 issue**: 17 · **提交数**: 2227
+- **发布数**: 207 · **已合并 PR**: 106 · **开放 PR**: 1 · **已关闭 issue**: 866 · **开放 issue**: 17 · **提交数**: 2236
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-13 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-14 | 10 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-16 | 16 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-17 | 20 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-22 | 31 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-14 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-14 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-15 | 11 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-17 | 17 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-18 | 21 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-23 | 32 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [vale_3.26.0_checksums.txt](https://github.com/errata-ai/vale/releases/download/v3.26.0/vale_3.26.0_checksums.txt) | 673 B | `other` |
-| [vale_3.26.0_Linux_64-bit.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.26.0/vale_3.26.0_Linux_64-bit.tar.gz) | 12.5 MiB | `native/unknown` |
-| [vale_3.26.0_Linux_arm64.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.26.0/vale_3.26.0_Linux_arm64.tar.gz) | 11.8 MiB | `native/linux/arm64` |
-| [vale_3.26.0_macOS_64-bit.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.26.0/vale_3.26.0_macOS_64-bit.tar.gz) | 12.5 MiB | `native/darwin/x64` |
-| [vale_3.26.0_macOS_arm64.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.26.0/vale_3.26.0_macOS_arm64.tar.gz) | 12.2 MiB | `native/darwin/arm64` |
-| [vale_3.26.0_wasm.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.26.0/vale_3.26.0_wasm.tar.gz) | 9.0 MiB | `native/unknown` |
-| [vale_3.26.0_Windows_64-bit.zip](https://github.com/errata-ai/vale/releases/download/v3.26.0/vale_3.26.0_Windows_64-bit.zip) | 12.7 MiB | `native/win/x64` |
-| [vale_3.26.0_Windows_arm64.zip](https://github.com/errata-ai/vale/releases/download/v3.26.0/vale_3.26.0_Windows_arm64.zip) | 11.9 MiB | `native/win/arm64` |
+| [grammar-bash.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-bash.zip) | 759.8 KiB | `other` |
+| [grammar-c.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-c.zip) | 602.2 KiB | `other` |
+| [grammar-cpp.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-cpp.zip) | 799.6 KiB | `other` |
+| [grammar-csharp.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-csharp.zip) | 885.0 KiB | `other` |
+| [grammar-css.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-css.zip) | 545.2 KiB | `other` |
+| [grammar-elixir.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-elixir.zip) | 819.1 KiB | `other` |
+| [grammar-elm.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-elm.zip) | 599.7 KiB | `other` |
+| [grammar-go.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-go.zip) | 556.9 KiB | `other` |
+| [grammar-java.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-java.zip) | 608.9 KiB | `other` |
+| [grammar-javascript.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-javascript.zip) | 572.8 KiB | `other` |
+| [grammar-julia.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-julia.zip) | 1.1 MiB | `other` |
+| [grammar-kotlin.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-kotlin.zip) | 870.0 KiB | `other` |
+| [grammar-lua.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-lua.zip) | 575.9 KiB | `other` |
+| [grammar-php.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-php.zip) | 631.4 KiB | `other` |
+| [grammar-proto.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-proto.zip) | 534.9 KiB | `other` |
+| [grammar-python.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-python.zip) | 598.4 KiB | `other` |
+| [grammar-ruby.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-ruby.zip) | 711.8 KiB | `other` |
+| [grammar-rust.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-rust.zip) | 643.9 KiB | `other` |
+| [grammar-toml.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-toml.zip) | 525.2 KiB | `other` |
+| [grammar-tsx.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-tsx.zip) | 675.7 KiB | `other` |
+| [grammar-typescript.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-typescript.zip) | 677.6 KiB | `other` |
+| [grammar-yaml.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-yaml.zip) | 582.7 KiB | `other` |
+| [vale_3.27.0_checksums.txt](https://github.com/errata-ai/vale/releases/download/v3.27.0/vale_3.27.0_checksums.txt) | 673 B | `other` |
+| [vale_3.27.0_Linux_64-bit.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.27.0/vale_3.27.0_Linux_64-bit.tar.gz) | 10.2 MiB | `native/unknown` |
+| [vale_3.27.0_Linux_arm64.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.27.0/vale_3.27.0_Linux_arm64.tar.gz) | 9.4 MiB | `native/linux/arm64` |
+| [vale_3.27.0_macOS_64-bit.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.27.0/vale_3.27.0_macOS_64-bit.tar.gz) | 10.4 MiB | `native/darwin/x64` |
+| [vale_3.27.0_macOS_arm64.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.27.0/vale_3.27.0_macOS_arm64.tar.gz) | 9.7 MiB | `native/darwin/arm64` |
+| [vale_3.27.0_wasm.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.27.0/vale_3.27.0_wasm.tar.gz) | 8.0 MiB | `native/unknown` |
+| [vale_3.27.0_Windows_64-bit.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/vale_3.27.0_Windows_64-bit.zip) | 10.4 MiB | `native/win/x64` |
+| [vale_3.27.0_Windows_arm64.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/vale_3.27.0_Windows_arm64.zip) | 9.5 MiB | `native/win/arm64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/vale) 上共有 **39** 个发行版报告此项目。**10** 个 ✅ 已是最新上游版本，**25** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/vale) 上共有 **39** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**32** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Arch | `3.26.0` | ✅ latest |
-| Homebrew | `3.26.0` | ✅ latest |
-| Nix unstable | `3.26.0` | ✅ latest |
+| Arch | `3.26.0` | ⚠️ outdated |
+| Homebrew | `3.27.0` | ✅ latest |
+| Nix unstable | `3.26.0` | ⚠️ outdated |
 | Void | `3.13.0` | ⚠️ outdated |
 | Alpine edge | `3.25.1` | ⚠️ outdated |
 | openSUSE Tumbleweed | `3.17.1` | ⚠️ outdated |
@@ -100,4 +122,4 @@ vale 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261112.yml` · 2026-11-12T07:58:23Z._
+_数据快照: `data/card/261113.yml` · 2026-11-13T07:29:53Z._

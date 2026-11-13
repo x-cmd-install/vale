@@ -14,14 +14,14 @@ x install vale
 
 ## Code insight
 
-Total: **190,515** lines of code across **819** files in the top 5 languages.
+Total: **191,293** lines of code across **830** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Xml | 83,732 | 1,635 | 2,262 | 92 |
 | XSL | 39,008 | 2,765 | 4,311 | 81 |
-| Go | 38,244 | 6,597 | 5,548 | 281 |
-| Yaml | 19,670 | 201 | 754 | 360 |
+| Go | 38,677 | 6,754 | 5,640 | 284 |
+| Yaml | 19,987 | 207 | 775 | 368 |
 | Rust | 2,595 | 48 | 188 | 5 |
 
 ## OpenSSF Scorecard
@@ -42,51 +42,73 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v3.26.0` (2026-10-31)
-- **Last commit**: 2026-11-07
-- **Assets in release**: 8
+- **Latest**: `v3.27.0` (2026-11-12)
+- **Last commit**: 2026-11-12
+- **Assets in release**: 30
 
 ## Popularity
 
-- **Stars**: 6,378 · **Forks**: 240 · **Open issues**: 882 · **Contributors**: 67
+- **Stars**: 6,385 · **Forks**: 240 · **Open issues**: 883 · **Contributors**: 68
 
 ## Totals (cumulative)
 
-- **Releases**: 206 · **Merged PRs**: 105 · **Open PRs**: 2 · **Closed issues**: 865 · **Open issues**: 17 · **Commits**: 2227
+- **Releases**: 207 · **Merged PRs**: 106 · **Open PRs**: 1 · **Closed issues**: 866 · **Open issues**: 17 · **Commits**: 2236
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-13 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-14 | 10 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-16 | 16 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-17 | 20 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-22 | 31 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-14 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-14 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-15 | 11 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-17 | 17 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-18 | 21 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-23 | 32 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [vale_3.26.0_checksums.txt](https://github.com/errata-ai/vale/releases/download/v3.26.0/vale_3.26.0_checksums.txt) | 673 B | `other` |
-| [vale_3.26.0_Linux_64-bit.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.26.0/vale_3.26.0_Linux_64-bit.tar.gz) | 12.5 MiB | `native/unknown` |
-| [vale_3.26.0_Linux_arm64.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.26.0/vale_3.26.0_Linux_arm64.tar.gz) | 11.8 MiB | `native/linux/arm64` |
-| [vale_3.26.0_macOS_64-bit.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.26.0/vale_3.26.0_macOS_64-bit.tar.gz) | 12.5 MiB | `native/darwin/x64` |
-| [vale_3.26.0_macOS_arm64.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.26.0/vale_3.26.0_macOS_arm64.tar.gz) | 12.2 MiB | `native/darwin/arm64` |
-| [vale_3.26.0_wasm.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.26.0/vale_3.26.0_wasm.tar.gz) | 9.0 MiB | `native/unknown` |
-| [vale_3.26.0_Windows_64-bit.zip](https://github.com/errata-ai/vale/releases/download/v3.26.0/vale_3.26.0_Windows_64-bit.zip) | 12.7 MiB | `native/win/x64` |
-| [vale_3.26.0_Windows_arm64.zip](https://github.com/errata-ai/vale/releases/download/v3.26.0/vale_3.26.0_Windows_arm64.zip) | 11.9 MiB | `native/win/arm64` |
+| [grammar-bash.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-bash.zip) | 759.8 KiB | `other` |
+| [grammar-c.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-c.zip) | 602.2 KiB | `other` |
+| [grammar-cpp.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-cpp.zip) | 799.6 KiB | `other` |
+| [grammar-csharp.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-csharp.zip) | 885.0 KiB | `other` |
+| [grammar-css.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-css.zip) | 545.2 KiB | `other` |
+| [grammar-elixir.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-elixir.zip) | 819.1 KiB | `other` |
+| [grammar-elm.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-elm.zip) | 599.7 KiB | `other` |
+| [grammar-go.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-go.zip) | 556.9 KiB | `other` |
+| [grammar-java.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-java.zip) | 608.9 KiB | `other` |
+| [grammar-javascript.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-javascript.zip) | 572.8 KiB | `other` |
+| [grammar-julia.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-julia.zip) | 1.1 MiB | `other` |
+| [grammar-kotlin.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-kotlin.zip) | 870.0 KiB | `other` |
+| [grammar-lua.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-lua.zip) | 575.9 KiB | `other` |
+| [grammar-php.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-php.zip) | 631.4 KiB | `other` |
+| [grammar-proto.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-proto.zip) | 534.9 KiB | `other` |
+| [grammar-python.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-python.zip) | 598.4 KiB | `other` |
+| [grammar-ruby.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-ruby.zip) | 711.8 KiB | `other` |
+| [grammar-rust.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-rust.zip) | 643.9 KiB | `other` |
+| [grammar-toml.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-toml.zip) | 525.2 KiB | `other` |
+| [grammar-tsx.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-tsx.zip) | 675.7 KiB | `other` |
+| [grammar-typescript.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-typescript.zip) | 677.6 KiB | `other` |
+| [grammar-yaml.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/grammar-yaml.zip) | 582.7 KiB | `other` |
+| [vale_3.27.0_checksums.txt](https://github.com/errata-ai/vale/releases/download/v3.27.0/vale_3.27.0_checksums.txt) | 673 B | `other` |
+| [vale_3.27.0_Linux_64-bit.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.27.0/vale_3.27.0_Linux_64-bit.tar.gz) | 10.2 MiB | `native/unknown` |
+| [vale_3.27.0_Linux_arm64.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.27.0/vale_3.27.0_Linux_arm64.tar.gz) | 9.4 MiB | `native/linux/arm64` |
+| [vale_3.27.0_macOS_64-bit.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.27.0/vale_3.27.0_macOS_64-bit.tar.gz) | 10.4 MiB | `native/darwin/x64` |
+| [vale_3.27.0_macOS_arm64.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.27.0/vale_3.27.0_macOS_arm64.tar.gz) | 9.7 MiB | `native/darwin/arm64` |
+| [vale_3.27.0_wasm.tar.gz](https://github.com/errata-ai/vale/releases/download/v3.27.0/vale_3.27.0_wasm.tar.gz) | 8.0 MiB | `native/unknown` |
+| [vale_3.27.0_Windows_64-bit.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/vale_3.27.0_Windows_64-bit.zip) | 10.4 MiB | `native/win/x64` |
+| [vale_3.27.0_Windows_arm64.zip](https://github.com/errata-ai/vale/releases/download/v3.27.0/vale_3.27.0_Windows_arm64.zip) | 9.5 MiB | `native/win/arm64` |
 
 ## Distribution status
 
-Reported by **39** distros on [repology.org](https://repology.org/project/vale). **10** are ✅ on the latest upstream release, **25** are ⚠️ on an older version.
+Reported by **39** distros on [repology.org](https://repology.org/project/vale). **3** are ✅ on the latest upstream release, **32** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `3.26.0` | ✅ latest |
-| Homebrew | `3.26.0` | ✅ latest |
-| Nix unstable | `3.26.0` | ✅ latest |
+| Arch | `3.26.0` | ⚠️ outdated |
+| Homebrew | `3.27.0` | ✅ latest |
+| Nix unstable | `3.26.0` | ⚠️ outdated |
 | Void | `3.13.0` | ⚠️ outdated |
 | Alpine edge | `3.25.1` | ⚠️ outdated |
 | openSUSE Tumbleweed | `3.17.1` | ⚠️ outdated |
@@ -100,4 +122,4 @@ Install metadata for vale lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T07:58:22Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T07:29:51Z._
