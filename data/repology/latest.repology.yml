@@ -3,7 +3,7 @@
   visiblename: Vale
   version: 3.26.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Vale — the customizable linter for prose.
 - repo: manjaro_unstable
   subrepo: extra
@@ -12,7 +12,7 @@
   visiblename: vale
   version: 3.26.0
   origversion: 3.26.0-1
-  status: newest
+  status: outdated
   summary: A markup-aware linter for prose built with speed and extensibility in mind
   licenses:
     - MIT
@@ -27,13 +27,6 @@
     - pbsds@hotmail.com
   licenses:
     - MIT
-- repo: homebrew
-  srcname: vale
-  visiblename: vale
-  version: 3.26.0
-  origversion: null
-  status: newest
-  summary: Syntax-aware linter for prose
 - repo: nix_stable_24_05
   srcname: vale
   visiblename: vale
@@ -194,7 +187,7 @@
   visiblename: vale
   version: 3.26.0
   origversion: 3.26.0-1
-  status: newest
+  status: outdated
   summary: A markup-aware linter for prose built with speed and extensibility in mind
   licenses:
     - MIT
@@ -204,7 +197,7 @@
   visiblename: textproc/vale
   version: 3.26.0
   origversion: 3.26.0_1
-  status: newest
+  status: outdated
   summary: Command-line tool that brings editorial style guide to life
   maintainers:
     - bofh@freebsd.org
@@ -252,6 +245,13 @@
   origversion: null
   status: outdated
   summary: Fully customizable syntax-aware linter that focuses on your style
+- repo: homebrew
+  srcname: vale
+  visiblename: vale
+  version: 3.27.0
+  origversion: null
+  status: newest
+  summary: Syntax-aware linter for prose
 - repo: liguros_stable
   srcname: app-text/vale
   visiblename: app-text/vale
@@ -355,7 +355,7 @@
   visiblename: vale
   version: 3.26.0
   origversion: 3.26.0-1
-  status: newest
+  status: outdated
   summary: A markup-aware linter for prose built with speed and extensibility in mind
   licenses:
     - MIT
@@ -397,7 +397,7 @@
   visiblename: vale
   version: 3.26.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Syntax-aware linter for prose built with speed and extensibility in mind
   maintainers:
     - pbsds@hotmail.com
@@ -450,7 +450,7 @@
   visiblename: vale
   version: 3.26.0
   origversion: 3.26.0-1
-  status: newest
+  status: outdated
   summary: A markup-aware linter for prose built with speed and extensibility in mind
   licenses:
     - MIT
@@ -458,7 +458,7 @@
   subrepo: main
   binname: vale
   visiblename: vale
-  version: 3.26.0
+  version: 3.27.0
   origversion: null
   status: newest
   licenses:
@@ -467,7 +467,7 @@
   srcname: vale
   binname: vale
   visiblename: vale
-  version: 3.26.0
+  version: 3.27.0
   origversion: null
   status: newest
   summary: A syntax-aware linter for prose built with speed and extensibility in mind
