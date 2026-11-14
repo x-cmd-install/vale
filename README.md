@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,385 · **Forks**: 240 · **Open issues**: 883 · **Contributors**: 68
+- **Stars**: 6,387 · **Forks**: 240 · **Open issues**: 884 · **Contributors**: 68
 
 ## Totals (cumulative)
 
-- **Releases**: 207 · **Merged PRs**: 106 · **Open PRs**: 1 · **Closed issues**: 866 · **Open issues**: 17 · **Commits**: 2236
+- **Releases**: 207 · **Merged PRs**: 106 · **Open PRs**: 1 · **Closed issues**: 866 · **Open issues**: 18 · **Commits**: 2236
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-14 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-15 | 11 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-17 | 17 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-18 | 21 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-23 | 32 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-15 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-15 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-16 | 11 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-18 | 17 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-19 | 21 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-24 | 32 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -102,7 +102,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **39** distros on [repology.org](https://repology.org/project/vale). **3** are ✅ on the latest upstream release, **32** are ⚠️ on an older version.
+Reported by **40** distros on [repology.org](https://repology.org/project/vale). **4** are ✅ on the latest upstream release, **32** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -122,4 +122,4 @@ Install metadata for vale lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T07:29:51Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T07:25:50Z._
