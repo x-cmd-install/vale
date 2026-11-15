@@ -173,9 +173,9 @@
   srcname: textproc/vale
   binname: vale
   visiblename: textproc/vale
-  version: 3.26.0
-  origversion: 3.26.0_1
-  status: outdated
+  version: 3.27.0
+  origversion: null
+  status: newest
   summary: Command-line tool that brings editorial style guide to life
   maintainers:
     - bofh@freebsd.org
