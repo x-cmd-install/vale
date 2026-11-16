@@ -133,17 +133,6 @@
   srcname: vale
   binname: vale
   visiblename: vale
-  version: 3.26.0
-  origversion: 3.26.0-1
-  status: outdated
-  summary: A markup-aware linter for prose built with speed and extensibility in mind
-  licenses:
-    - MIT
-- repo: arch_testing
-  subrepo: extra-testing
-  srcname: vale
-  binname: vale
-  visiblename: vale
   version: 3.27.0
   origversion: 3.27.0-1
   status: newest
@@ -165,9 +154,9 @@
 - repo: chocolatey
   binname: vale
   visiblename: Vale
-  version: 3.26.0
+  version: 3.27.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Vale — the customizable linter for prose.
 - repo: freebsd
   srcname: textproc/vale
@@ -342,9 +331,9 @@
   srcname: vale
   binname: vale
   visiblename: vale
-  version: 3.26.0
-  origversion: 3.26.0-1
-  status: outdated
+  version: 3.27.0
+  origversion: 3.27.0-1
+  status: newest
   summary: A markup-aware linter for prose built with speed and extensibility in mind
   licenses:
     - MIT
@@ -406,9 +395,9 @@
 - repo: nix_unstable
   srcname: vale
   visiblename: vale
-  version: 3.26.0
+  version: 3.27.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Syntax-aware linter for prose built with speed and extensibility in mind
   maintainers:
     - pbsds@hotmail.com
