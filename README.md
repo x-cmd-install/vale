@@ -26,11 +26,11 @@ Total: **191,293** lines of code across **830** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.3 / 10**
+Overall score: **5.1 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 1/30 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,392 · **Forks**: 241 · **Open issues**: 884 · **Contributors**: 68
+- **Stars**: 6,397 · **Forks**: 241 · **Open issues**: 884 · **Contributors**: 68
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-17 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-18 | 11 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-20 | 17 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-21 | 21 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-26 | 32 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-18 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-18 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-19 | 11 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-21 | 17 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-22 | 21 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-27 | 32 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -102,7 +102,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **39** distros on [repology.org](https://repology.org/project/vale). **8** are ✅ on the latest upstream release, **27** are ⚠️ on an older version.
+Reported by **39** distros on [repology.org](https://repology.org/project/vale). **9** are ✅ on the latest upstream release, **26** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -122,4 +122,4 @@ Install metadata for vale lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:17:37Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T08:35:33Z._
