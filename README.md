@@ -14,12 +14,12 @@ x install vale
 
 ## Code insight
 
-Total: **192,630** lines of code across **846** files in the top 5 languages.
+Total: **193,120** lines of code across **852** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Xml | 83,732 | 1,635 | 2,262 | 92 |
-| Go | 39,848 | 6,835 | 5,706 | 300 |
+| Go | 40,336 | 6,918 | 5,752 | 306 |
 | XSL | 39,008 | 2,765 | 4,311 | 81 |
 | Yaml | 20,076 | 207 | 779 | 368 |
 | Rust | 2,595 | 48 | 188 | 5 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.28.1` (2026-11-19)
-- **Last commit**: 2026-11-19
+- **Last commit**: 2026-11-20
 - **Assets in release**: 30
 
 ## Popularity
 
-- **Stars**: 6,411 · **Forks**: 243 · **Open issues**: 886 · **Contributors**: 69
+- **Stars**: 6,413 · **Forks**: 243 · **Open issues**: 886 · **Contributors**: 69
 
 ## Totals (cumulative)
 
-- **Releases**: 209 · **Merged PRs**: 107 · **Open PRs**: 2 · **Closed issues**: 870 · **Open issues**: 16 · **Commits**: 2252
+- **Releases**: 209 · **Merged PRs**: 108 · **Open PRs**: 2 · **Closed issues**: 871 · **Open issues**: 15 · **Commits**: 2262
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 6 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-21 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-22 | 12 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-24 | 19 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-25 | 23 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-30 | 34 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-22 | 6 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-22 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-23 | 12 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-25 | 19 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-26 | 23 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-01 | 34 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -122,4 +122,4 @@ Install metadata for vale lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T08:01:01Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:33:21Z._
