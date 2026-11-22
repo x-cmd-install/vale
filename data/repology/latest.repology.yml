@@ -1,27 +1,36 @@
-- repo: homebrew
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: vale
+  binname: vale
+  visiblename: vale
+  version: 3.27.0
+  origversion: 3.27.0-1
+  status: outdated
+  summary: A markup-aware linter for prose built with speed and extensibility in mind
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: vale
+  binname: vale
+  visiblename: vale
+  version: 3.27.0
+  origversion: 3.27.0-1
+  status: outdated
+  summary: A markup-aware linter for prose built with speed and extensibility in mind
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
   srcname: vale
   visiblename: vale
-  version: 3.28.1
+  version: 3.9.1
   origversion: null
-  status: newest
-  summary: Syntax-aware linter for prose
-- repo: liguros_stable
-  srcname: app-text/vale
-  visiblename: app-text/vale
-  version: 3.7.1
-  origversion: null
-  status: legacy
-  summary: A syntax-aware linter for prose built with speed and extensibility in mind
+  status: outdated
+  summary: Syntax-aware linter for prose built with speed and extensibility in mind
   maintainers:
-    - erkiferenc@gmail.com
+    - pbsds@hotmail.com
   licenses:
-    - Apache-2.0
-    - BSD
-    - BSD-2
     - MIT
-    - public-domain
-  categories:
-    - app-text
 - repo: alpine_3_21
   subrepo: community
   srcname: vale
@@ -157,17 +166,6 @@
   srcname: vale
   binname: vale
   visiblename: vale
-  version: 3.27.0
-  origversion: 3.27.0-1
-  status: outdated
-  summary: A markup-aware linter for prose built with speed and extensibility in mind
-  licenses:
-    - MIT
-- repo: arch_testing
-  subrepo: extra-testing
-  srcname: vale
-  binname: vale
-  visiblename: vale
   version: 3.28.1
   origversion: 3.28.1-1
   status: newest
@@ -247,6 +245,30 @@
   origversion: null
   status: outdated
   summary: Fully customizable syntax-aware linter that focuses on your style
+- repo: homebrew
+  srcname: vale
+  visiblename: vale
+  version: 3.28.1
+  origversion: null
+  status: newest
+  summary: Syntax-aware linter for prose
+- repo: liguros_stable
+  srcname: app-text/vale
+  visiblename: app-text/vale
+  version: 3.7.1
+  origversion: null
+  status: legacy
+  summary: A syntax-aware linter for prose built with speed and extensibility in mind
+  maintainers:
+    - erkiferenc@gmail.com
+  licenses:
+    - Apache-2.0
+    - BSD
+    - BSD-2
+    - MIT
+    - public-domain
+  categories:
+    - app-text
 - repo: liguros_stable
   srcname: app-text/vale
   visiblename: app-text/vale
@@ -326,28 +348,6 @@
   summary: A markup-aware linter for prose built with speed and extensibility in mind
   licenses:
     - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: vale
-  binname: vale
-  visiblename: vale
-  version: 3.27.0
-  origversion: 3.27.0-1
-  status: outdated
-  summary: A markup-aware linter for prose built with speed and extensibility in mind
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: vale
-  binname: vale
-  visiblename: vale
-  version: 3.27.0
-  origversion: 3.27.0-1
-  status: outdated
-  summary: A markup-aware linter for prose built with speed and extensibility in mind
-  licenses:
-    - MIT
 - repo: nix_stable_24_05
   srcname: vale
   visiblename: vale
@@ -355,17 +355,6 @@
   origversion: null
   status: outdated
   summary: A syntax-aware linter for prose built with speed and extensibility in mind
-  maintainers:
-    - pbsds@hotmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: vale
-  visiblename: vale
-  version: 3.9.1
-  origversion: null
-  status: outdated
-  summary: Syntax-aware linter for prose built with speed and extensibility in mind
   maintainers:
     - pbsds@hotmail.com
   licenses:
