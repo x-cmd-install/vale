@@ -14,15 +14,15 @@ x install vale
 
 ## Code insight
 
-Total: **193,120** lines of code across **852** files in the top 5 languages.
+Total: **193,464** lines of code across **854** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Xml | 83,732 | 1,635 | 2,262 | 92 |
-| Go | 40,336 | 6,918 | 5,752 | 306 |
+| Go | 40,564 | 6,956 | 5,774 | 307 |
 | XSL | 39,008 | 2,765 | 4,311 | 81 |
-| Yaml | 20,076 | 207 | 779 | 368 |
-| Rust | 2,595 | 48 | 188 | 5 |
+| Yaml | 20,139 | 207 | 783 | 368 |
+| Rust | 2,598 | 54 | 188 | 6 |
 
 ## OpenSSF Scorecard
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.28.1` (2026-11-19)
-- **Last commit**: 2026-11-20
+- **Last commit**: 2026-11-21
 - **Assets in release**: 30
 
 ## Popularity
 
-- **Stars**: 6,413 · **Forks**: 243 · **Open issues**: 886 · **Contributors**: 69
+- **Stars**: 6,416 · **Forks**: 243 · **Open issues**: 887 · **Contributors**: 69
 
 ## Totals (cumulative)
 
-- **Releases**: 209 · **Merged PRs**: 108 · **Open PRs**: 2 · **Closed issues**: 871 · **Open issues**: 15 · **Commits**: 2262
+- **Releases**: 209 · **Merged PRs**: 109 · **Open PRs**: 0 · **Closed issues**: 875 · **Open issues**: 12 · **Commits**: 2269
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 6 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-22 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-23 | 12 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-25 | 19 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-26 | 23 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-01 | 34 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-23 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-23 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-24 | 12 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-26 | 19 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-27 | 23 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-02 | 34 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -102,11 +102,11 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **40** distros on [repology.org](https://repology.org/project/vale). **4** are ✅ on the latest upstream release, **32** are ⚠️ on an older version.
+Reported by **39** distros on [repology.org](https://repology.org/project/vale). **4** are ✅ on the latest upstream release, **31** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `3.27.0` | ⚠️ outdated |
+| Arch | `3.28.1` | ✅ latest |
 | Homebrew | `3.28.1` | ✅ latest |
 | Nix unstable | `3.27.0` | ⚠️ outdated |
 | Void | `3.13.0` | ⚠️ outdated |
@@ -122,4 +122,4 @@ Install metadata for vale lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:33:21Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:21:33Z._
