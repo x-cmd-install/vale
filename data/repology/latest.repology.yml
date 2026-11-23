@@ -1,36 +1,19 @@
-- repo: manjaro_testing
-  subrepo: extra
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
   srcname: vale
-  binname: vale
+  binnames:
+    - vale
+    - vale-debuginfo
+    - vale-debugsource
   visiblename: vale
-  version: 3.27.0
-  origversion: 3.27.0-1
+  version: 3.17.1
+  origversion: 3.17.1-1.1
   status: outdated
-  summary: A markup-aware linter for prose built with speed and extensibility in mind
+  summary: CLI tool to lint text with extensible markup format support
   licenses:
     - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: vale
-  binname: vale
-  visiblename: vale
-  version: 3.27.0
-  origversion: 3.27.0-1
-  status: outdated
-  summary: A markup-aware linter for prose built with speed and extensibility in mind
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: vale
-  visiblename: vale
-  version: 3.9.1
-  origversion: null
-  status: outdated
-  summary: Syntax-aware linter for prose built with speed and extensibility in mind
-  maintainers:
-    - pbsds@hotmail.com
-  licenses:
-    - MIT
+  categories:
+    - Productivity/Text/Utilities
 - repo: alpine_3_21
   subrepo: community
   srcname: vale
@@ -187,9 +170,9 @@
 - repo: chocolatey
   binname: vale
   visiblename: Vale
-  version: 3.27.0
+  version: 3.28.1
   origversion: null
-  status: outdated
+  status: newest
   summary: Vale — the customizable linter for prose.
 - repo: freebsd
   srcname: textproc/vale
@@ -348,6 +331,28 @@
   summary: A markup-aware linter for prose built with speed and extensibility in mind
   licenses:
     - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: vale
+  binname: vale
+  visiblename: vale
+  version: 3.27.0
+  origversion: 3.27.0-1
+  status: outdated
+  summary: A markup-aware linter for prose built with speed and extensibility in mind
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: vale
+  binname: vale
+  visiblename: vale
+  version: 3.28.1
+  origversion: 3.28.1-1
+  status: newest
+  summary: A markup-aware linter for prose built with speed and extensibility in mind
+  licenses:
+    - MIT
 - repo: nix_stable_24_05
   srcname: vale
   visiblename: vale
@@ -355,6 +360,17 @@
   origversion: null
   status: outdated
   summary: A syntax-aware linter for prose built with speed and extensibility in mind
+  maintainers:
+    - pbsds@hotmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: vale
+  visiblename: vale
+  version: 3.9.1
+  origversion: null
+  status: outdated
+  summary: Syntax-aware linter for prose built with speed and extensibility in mind
   maintainers:
     - pbsds@hotmail.com
   licenses:
@@ -423,22 +439,6 @@
   origversion: 2.28.3-bp156.1.11
   status: outdated
   summary: CLI tool to lint prose text with syntax awareneness and extensible markup format support
-  licenses:
-    - MIT
-  categories:
-    - Productivity/Text/Utilities
-- repo: opensuse_tumbleweed
-  subrepo: src-oss
-  srcname: vale
-  binnames:
-    - vale
-    - vale-debuginfo
-    - vale-debugsource
-  visiblename: vale
-  version: 3.17.1
-  origversion: 3.17.1-1.1
-  status: outdated
-  summary: CLI tool to lint text with extensible markup format support
   licenses:
     - MIT
   categories:
