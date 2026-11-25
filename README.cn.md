@@ -48,22 +48,22 @@ x install vale
 
 ## 流行度
 
-- **Star**: 6,425 · **Fork**: 244 · **开放 issue**: 887 · **贡献者**: 69
+- **Star**: 6,431 · **Fork**: 244 · **开放 issue**: 890 · **贡献者**: 69
 
 ## 累计统计
 
-- **发布数**: 209 · **已合并 PR**: 109 · **开放 PR**: 0 · **已关闭 issue**: 875 · **开放 issue**: 12 · **提交数**: 2273
+- **发布数**: 209 · **已合并 PR**: 109 · **开放 PR**: 0 · **已关闭 issue**: 875 · **开放 issue**: 15 · **提交数**: 2273
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-26 | 12 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-28 | 19 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-29 | 23 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-04 | 34 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-26 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-27 | 11 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-29 | 19 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-30 | 23 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-05 | 34 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
@@ -100,19 +100,6 @@ x install vale
 | [vale_3.28.1_Windows_64-bit.zip](https://github.com/errata-ai/vale/releases/download/v3.28.1/vale_3.28.1_Windows_64-bit.zip) | 11.6 MiB | `native/win/x64` |
 | [vale_3.28.1_Windows_arm64.zip](https://github.com/errata-ai/vale/releases/download/v3.28.1/vale_3.28.1_Windows_arm64.zip) | 10.6 MiB | `native/win/arm64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/vale) 上共有 **39** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**29** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `3.28.1` | ✅ latest |
-| Homebrew | `3.28.1` | ✅ latest |
-| Nix unstable | `3.27.0` | ⚠️ outdated |
-| Void | `3.13.0` | ⚠️ outdated |
-| Alpine edge | `3.25.1` | ⚠️ outdated |
-| openSUSE Tumbleweed | `3.17.1` | ⚠️ outdated |
-
 ## 改进这些数据
 
 vale 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `vale` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -122,4 +109,4 @@ vale 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T11:27:08Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T09:29:55Z._
