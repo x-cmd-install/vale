@@ -14,14 +14,14 @@ x install vale
 
 ## Code insight
 
-Total: **195,301** lines of code across **863** files in the top 5 languages.
+Total: **195,741** lines of code across **863** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Xml | 83,732 | 1,635 | 2,262 | 92 |
-| Go | 42,148 | 7,112 | 5,905 | 315 |
+| Go | 42,419 | 7,179 | 5,917 | 315 |
 | XSL | 39,008 | 2,765 | 4,311 | 81 |
-| Yaml | 20,313 | 209 | 793 | 368 |
+| Yaml | 20,482 | 209 | 773 | 368 |
 | Rust | 2,619 | 55 | 195 | 7 |
 
 ## Source
@@ -32,63 +32,64 @@ Total: **195,301** lines of code across **863** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v3.28.1` (2026-11-19)
-- **Last commit**: 2026-11-25
-- **Assets in release**: 30
+- **Latest**: `v3.29.0` (2026-11-26)
+- **Last commit**: 2026-11-26
+- **Assets in release**: 31
 
 ## Popularity
 
-- **Stars**: 6,437 · **Forks**: 245 · **Open issues**: 890 · **Contributors**: 69
+- **Stars**: 6,440 · **Forks**: 245 · **Open issues**: 891 · **Contributors**: 69
 
 ## Totals (cumulative)
 
-- **Releases**: 209 · **Merged PRs**: 109 · **Open PRs**: 0 · **Closed issues**: 878 · **Open issues**: 12 · **Commits**: 2283
+- **Releases**: 210 · **Merged PRs**: 109 · **Open PRs**: 0 · **Closed issues**: 879 · **Open issues**: 12 · **Commits**: 2287
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 4 | 4 | 0 | 12 | 0 | 74 |
-| last60d | 2026-09-27 | 7 | 5 | 0 | 32 | 1 | 117 |
-| 90d | 2026-08-28 | 11 | 11 | 0 | 55 | 1 | 227 |
-| last180d | 2026-05-30 | 19 | 25 | 0 | 84 | 3 | 415 |
-| 360d | 2025-12-01 | 23 | 37 | 0 | 110 | 8 | 443 |
-| last720d | 2024-12-06 | 34 | 45 | 0 | 186 | 10 | 517 |
+| 30d | 2026-10-28 | 5 | 4 | 0 | 12 | 1 | 78 |
+| last60d | 2026-09-28 | 8 | 5 | 0 | 32 | 2 | 121 |
+| 90d | 2026-08-29 | 12 | 11 | 0 | 55 | 2 | 231 |
+| last180d | 2026-05-31 | 20 | 25 | 0 | 84 | 4 | 419 |
+| 360d | 2025-12-02 | 24 | 37 | 0 | 111 | 8 | 447 |
+| last720d | 2024-12-07 | 35 | 45 | 0 | 187 | 10 | 521 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [grammar-bash.zip](https://github.com/vale-cli/vale/releases/download/v3.28.1/grammar-bash.zip) | 759.8 KiB | `other` |
-| [grammar-c.zip](https://github.com/vale-cli/vale/releases/download/v3.28.1/grammar-c.zip) | 602.0 KiB | `other` |
-| [grammar-cpp.zip](https://github.com/vale-cli/vale/releases/download/v3.28.1/grammar-cpp.zip) | 799.5 KiB | `other` |
-| [grammar-csharp.zip](https://github.com/vale-cli/vale/releases/download/v3.28.1/grammar-csharp.zip) | 884.5 KiB | `other` |
-| [grammar-css.zip](https://github.com/vale-cli/vale/releases/download/v3.28.1/grammar-css.zip) | 545.1 KiB | `other` |
-| [grammar-elixir.zip](https://github.com/vale-cli/vale/releases/download/v3.28.1/grammar-elixir.zip) | 819.0 KiB | `other` |
-| [grammar-elm.zip](https://github.com/vale-cli/vale/releases/download/v3.28.1/grammar-elm.zip) | 599.8 KiB | `other` |
-| [grammar-go.zip](https://github.com/vale-cli/vale/releases/download/v3.28.1/grammar-go.zip) | 556.8 KiB | `other` |
-| [grammar-java.zip](https://github.com/vale-cli/vale/releases/download/v3.28.1/grammar-java.zip) | 608.4 KiB | `other` |
-| [grammar-javascript.zip](https://github.com/vale-cli/vale/releases/download/v3.28.1/grammar-javascript.zip) | 572.7 KiB | `other` |
-| [grammar-julia.zip](https://github.com/vale-cli/vale/releases/download/v3.28.1/grammar-julia.zip) | 1.1 MiB | `other` |
-| [grammar-kotlin.zip](https://github.com/vale-cli/vale/releases/download/v3.28.1/grammar-kotlin.zip) | 869.9 KiB | `other` |
-| [grammar-lua.zip](https://github.com/vale-cli/vale/releases/download/v3.28.1/grammar-lua.zip) | 575.1 KiB | `other` |
-| [grammar-php.zip](https://github.com/vale-cli/vale/releases/download/v3.28.1/grammar-php.zip) | 631.3 KiB | `other` |
-| [grammar-proto.zip](https://github.com/vale-cli/vale/releases/download/v3.28.1/grammar-proto.zip) | 534.5 KiB | `other` |
-| [grammar-python.zip](https://github.com/vale-cli/vale/releases/download/v3.28.1/grammar-python.zip) | 598.2 KiB | `other` |
-| [grammar-ruby.zip](https://github.com/vale-cli/vale/releases/download/v3.28.1/grammar-ruby.zip) | 711.5 KiB | `other` |
-| [grammar-rust.zip](https://github.com/vale-cli/vale/releases/download/v3.28.1/grammar-rust.zip) | 643.8 KiB | `other` |
-| [grammar-toml.zip](https://github.com/vale-cli/vale/releases/download/v3.28.1/grammar-toml.zip) | 525.1 KiB | `other` |
-| [grammar-tsx.zip](https://github.com/vale-cli/vale/releases/download/v3.28.1/grammar-tsx.zip) | 675.5 KiB | `other` |
-| [grammar-typescript.zip](https://github.com/vale-cli/vale/releases/download/v3.28.1/grammar-typescript.zip) | 677.5 KiB | `other` |
-| [grammar-yaml.zip](https://github.com/vale-cli/vale/releases/download/v3.28.1/grammar-yaml.zip) | 582.6 KiB | `other` |
-| [vale_3.28.1_checksums.txt](https://github.com/vale-cli/vale/releases/download/v3.28.1/vale_3.28.1_checksums.txt) | 673 B | `other` |
-| [vale_3.28.1_Linux_64-bit.tar.gz](https://github.com/vale-cli/vale/releases/download/v3.28.1/vale_3.28.1_Linux_64-bit.tar.gz) | 11.4 MiB | `native/unknown` |
-| [vale_3.28.1_Linux_arm64.tar.gz](https://github.com/vale-cli/vale/releases/download/v3.28.1/vale_3.28.1_Linux_arm64.tar.gz) | 10.4 MiB | `native/linux/arm64` |
-| [vale_3.28.1_macOS_64-bit.tar.gz](https://github.com/vale-cli/vale/releases/download/v3.28.1/vale_3.28.1_macOS_64-bit.tar.gz) | 11.6 MiB | `native/darwin/x64` |
-| [vale_3.28.1_macOS_arm64.tar.gz](https://github.com/vale-cli/vale/releases/download/v3.28.1/vale_3.28.1_macOS_arm64.tar.gz) | 10.8 MiB | `native/darwin/arm64` |
-| [vale_3.28.1_wasm.tar.gz](https://github.com/vale-cli/vale/releases/download/v3.28.1/vale_3.28.1_wasm.tar.gz) | 9.4 MiB | `native/unknown` |
-| [vale_3.28.1_Windows_64-bit.zip](https://github.com/vale-cli/vale/releases/download/v3.28.1/vale_3.28.1_Windows_64-bit.zip) | 11.6 MiB | `native/win/x64` |
-| [vale_3.28.1_Windows_arm64.zip](https://github.com/vale-cli/vale/releases/download/v3.28.1/vale_3.28.1_Windows_arm64.zip) | 10.6 MiB | `native/win/arm64` |
+| [grammar-bash.zip](https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-bash.zip) | 272.5 KiB | `other` |
+| [grammar-c.zip](https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-c.zip) | 134.7 KiB | `other` |
+| [grammar-cpp.zip](https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-cpp.zip) | 389.3 KiB | `other` |
+| [grammar-csharp.zip](https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-csharp.zip) | 650.0 KiB | `other` |
+| [grammar-css.zip](https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-css.zip) | 72.1 KiB | `other` |
+| [grammar-elixir.zip](https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-elixir.zip) | 281.6 KiB | `other` |
+| [grammar-elm.zip](https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-elm.zip) | 101.8 KiB | `other` |
+| [grammar-go.zip](https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-go.zip) | 91.7 KiB | `other` |
+| [grammar-java.zip](https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-java.zip) | 120.8 KiB | `other` |
+| [grammar-javascript.zip](https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-javascript.zip) | 109.7 KiB | `other` |
+| [grammar-julia.zip](https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-julia.zip) | 636.2 KiB | `other` |
+| [grammar-kotlin.zip](https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-kotlin.zip) | 505.4 KiB | `other` |
+| [grammar-lua.zip](https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-lua.zip) | 101.7 KiB | `other` |
+| [grammar-php.zip](https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-php.zip) | 169.7 KiB | `other` |
+| [grammar-proto.zip](https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-proto.zip) | 67.1 KiB | `other` |
+| [grammar-python.zip](https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-python.zip) | 126.0 KiB | `other` |
+| [grammar-ruby.zip](https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-ruby.zip) | 318.0 KiB | `other` |
+| [grammar-rust.zip](https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-rust.zip) | 197.6 KiB | `other` |
+| [grammar-toml.zip](https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-toml.zip) | 61.7 KiB | `other` |
+| [grammar-tsx.zip](https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-tsx.zip) | 248.8 KiB | `other` |
+| [grammar-typescript.zip](https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-typescript.zip) | 245.2 KiB | `other` |
+| [grammar-yaml.zip](https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-yaml.zip) | 87.5 KiB | `other` |
+| [vale_3.29.0_checksums.txt](https://github.com/vale-cli/vale/releases/download/v3.29.0/vale_3.29.0_checksums.txt) | 767 B | `other` |
+| [vale_3.29.0_Linux_64-bit.tar.gz](https://github.com/vale-cli/vale/releases/download/v3.29.0/vale_3.29.0_Linux_64-bit.tar.gz) | 11.6 MiB | `native/unknown` |
+| [vale_3.29.0_Linux_arm64.tar.gz](https://github.com/vale-cli/vale/releases/download/v3.29.0/vale_3.29.0_Linux_arm64.tar.gz) | 10.6 MiB | `native/linux/arm64` |
+| [vale_3.29.0_macOS_64-bit.tar.gz](https://github.com/vale-cli/vale/releases/download/v3.29.0/vale_3.29.0_macOS_64-bit.tar.gz) | 11.8 MiB | `native/darwin/x64` |
+| [vale_3.29.0_macOS_arm64.tar.gz](https://github.com/vale-cli/vale/releases/download/v3.29.0/vale_3.29.0_macOS_arm64.tar.gz) | 11.0 MiB | `native/darwin/arm64` |
+| [vale_3.29.0_wasm.tar.gz](https://github.com/vale-cli/vale/releases/download/v3.29.0/vale_3.29.0_wasm.tar.gz) | 9.6 MiB | `native/unknown` |
+| [vale_3.29.0_wasm_min.tar.gz](https://github.com/vale-cli/vale/releases/download/v3.29.0/vale_3.29.0_wasm_min.tar.gz) | 6.0 MiB | `native/unknown` |
+| [vale_3.29.0_Windows_64-bit.zip](https://github.com/vale-cli/vale/releases/download/v3.29.0/vale_3.29.0_Windows_64-bit.zip) | 11.8 MiB | `native/win/x64` |
+| [vale_3.29.0_Windows_arm64.zip](https://github.com/vale-cli/vale/releases/download/v3.29.0/vale_3.29.0_Windows_arm64.zip) | 10.7 MiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -99,4 +100,4 @@ Install metadata for vale lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:53:08Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T02:21:22Z._
