@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 279021,
       "digest": "sha256:5c47f2d9aad5c15fd5992a36efb6233299c1a7b4ee1d7831762fc1880b79afc2",
-      "download_count": 8,
+      "download_count": 11,
       "created_at": "2026-11-26T14:20:17Z",
       "updated_at": "2026-11-26T14:20:18Z",
       "browser_download_url": "https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-bash.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 137922,
       "digest": "sha256:5fa17051d819401dc416f946cb5ab505173a79926456c0d73203c6dd47519c8f",
-      "download_count": 17,
+      "download_count": 37,
       "created_at": "2026-11-26T14:20:17Z",
       "updated_at": "2026-11-26T14:20:18Z",
       "browser_download_url": "https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-c.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 398630,
       "digest": "sha256:ace839869bf2d719f6124fab8a8c1217124280b15bf21765a6f60165ad8cd0e4",
-      "download_count": 15,
+      "download_count": 34,
       "created_at": "2026-11-26T14:20:18Z",
       "updated_at": "2026-11-26T14:20:18Z",
       "browser_download_url": "https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-cpp.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 665650,
       "digest": "sha256:3ce20405479d469a3fbf5b7092f7cb1851d6ad09fe092f95f6b6ba73e171ecfc",
-      "download_count": 8,
+      "download_count": 11,
       "created_at": "2026-11-26T14:20:19Z",
       "updated_at": "2026-11-26T14:20:20Z",
       "browser_download_url": "https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-csharp.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 73836,
       "digest": "sha256:994e280a148977eb78adbb0e115b0eb91d3ebe5c28f8677d81af973f34a5bcaa",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-11-26T14:20:20Z",
       "updated_at": "2026-11-26T14:20:20Z",
       "browser_download_url": "https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-css.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 288320,
       "digest": "sha256:81af5fe8cb7d6a53a75a309c74cf84a1d5153e69e4d352a139389c1201dacdd3",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-11-26T14:20:16Z",
       "updated_at": "2026-11-26T14:20:17Z",
       "browser_download_url": "https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-elixir.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 104214,
       "digest": "sha256:8c9499c71f63e6a9f205868fc24ba0741203bd7d2a75bfe7d28ca240cfbe93c4",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-11-26T14:20:16Z",
       "updated_at": "2026-11-26T14:20:17Z",
       "browser_download_url": "https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-elm.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 93895,
       "digest": "sha256:cc8155c0e176e575f374fab97daf5638626fa3fe99f040baf16bd3b7e3d8bff7",
-      "download_count": 21,
+      "download_count": 86,
       "created_at": "2026-11-26T14:20:17Z",
       "updated_at": "2026-11-26T14:20:17Z",
       "browser_download_url": "https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-go.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 123720,
       "digest": "sha256:814472b222bb567444e5c119e7eaa29c554fa5d0fbe705191dac105879c659fa",
-      "download_count": 19,
+      "download_count": 44,
       "created_at": "2026-11-26T14:20:18Z",
       "updated_at": "2026-11-26T14:20:19Z",
       "browser_download_url": "https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-java.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 112350,
       "digest": "sha256:573f864fc00218c6130b56fdd4788ff6463383d367fe89c6e8e9e869a7947777",
-      "download_count": 139,
+      "download_count": 162,
       "created_at": "2026-11-26T14:20:20Z",
       "updated_at": "2026-11-26T14:20:20Z",
       "browser_download_url": "https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-javascript.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 651419,
       "digest": "sha256:9a7f55d2e3f3798c5df129eb3bb64a7ad40ecd2a236c9868ac4b6853e71d18cd",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-26T14:20:19Z",
       "updated_at": "2026-11-26T14:20:19Z",
       "browser_download_url": "https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-julia.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 517537,
       "digest": "sha256:f4ae9051f061bfd50a2300bf9a72c3ee3c2e569c4619192b7acdba284bef6595",
-      "download_count": 6,
+      "download_count": 8,
       "created_at": "2026-11-26T14:20:20Z",
       "updated_at": "2026-11-26T14:20:21Z",
       "browser_download_url": "https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-kotlin.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 104153,
       "digest": "sha256:2e1ad7d3698e9a07a7992f3636f840b8512dc6643f4311c6d3cdbdc01669bb4f",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-11-26T14:20:17Z",
       "updated_at": "2026-11-26T14:20:17Z",
       "browser_download_url": "https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-lua.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 173821,
       "digest": "sha256:8eb58ee935243632ccb54b65e1f75b6ac407299e06b68819674e6662c2c3dc58",
-      "download_count": 118,
+      "download_count": 120,
       "created_at": "2026-11-26T14:20:18Z",
       "updated_at": "2026-11-26T14:20:18Z",
       "browser_download_url": "https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-php.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 68674,
       "digest": "sha256:ced382cda38c2ee202fdd4afd5dc56dbed38e1623db28db8489dde8d2e06bb27",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-11-26T14:20:17Z",
       "updated_at": "2026-11-26T14:20:17Z",
       "browser_download_url": "https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-proto.zip"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 128977,
       "digest": "sha256:f996b44ba4264933b52ff207754053c70f289a7ccefc0d7273bea228cade4c93",
-      "download_count": 29,
+      "download_count": 54,
       "created_at": "2026-11-26T14:20:19Z",
       "updated_at": "2026-11-26T14:20:19Z",
       "browser_download_url": "https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-python.zip"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 325677,
       "digest": "sha256:f81de4dfd6eed7b051e61a9ef88602aa882035caff326948330c7cacac4d5bf8",
-      "download_count": 5,
+      "download_count": 20,
       "created_at": "2026-11-26T14:20:19Z",
       "updated_at": "2026-11-26T14:20:20Z",
       "browser_download_url": "https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-ruby.zip"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 202360,
       "digest": "sha256:901a1e9c0b41863384efccc685107e4e2ce8e3978282427c2608d0fc580e50ad",
-      "download_count": 12,
+      "download_count": 28,
       "created_at": "2026-11-26T14:20:16Z",
       "updated_at": "2026-11-26T14:20:16Z",
       "browser_download_url": "https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-rust.zip"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 63173,
       "digest": "sha256:8062d7cb9142889a74c187717781e840de90d42a5f69b7c1e6b34f917b4caba7",
-      "download_count": 10,
+      "download_count": 12,
       "created_at": "2026-11-26T14:20:19Z",
       "updated_at": "2026-11-26T14:20:20Z",
       "browser_download_url": "https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-toml.zip"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 254796,
       "digest": "sha256:8dce62e2b962268676b520b0efe66228dfbc87b26f569e9ea73c6c146d2d9ad3",
-      "download_count": 10,
+      "download_count": 26,
       "created_at": "2026-11-26T14:20:19Z",
       "updated_at": "2026-11-26T14:20:19Z",
       "browser_download_url": "https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-tsx.zip"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 251083,
       "digest": "sha256:5f7530b73d552c27bd1002e11aa085688e90ef6fda961bb50fb8285d64441bca",
-      "download_count": 155,
+      "download_count": 191,
       "created_at": "2026-11-26T14:20:16Z",
       "updated_at": "2026-11-26T14:20:17Z",
       "browser_download_url": "https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-typescript.zip"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 89584,
       "digest": "sha256:1fa3980c187e0383cb054fd60c2edbc376e499fbbc226829e033848c5788d754",
-      "download_count": 167,
+      "download_count": 194,
       "created_at": "2026-11-26T14:20:18Z",
       "updated_at": "2026-11-26T14:20:18Z",
       "browser_download_url": "https://github.com/vale-cli/vale/releases/download/v3.29.0/grammar-yaml.zip"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 767,
       "digest": "sha256:7f7023d146bde314173eeae27817a82ea1719e89dc9603d7090b791a3fe2f8f0",
-      "download_count": 1438,
+      "download_count": 2007,
       "created_at": "2026-11-26T14:20:16Z",
       "updated_at": "2026-11-26T14:20:16Z",
       "browser_download_url": "https://github.com/vale-cli/vale/releases/download/v3.29.0/vale_3.29.0_checksums.txt"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 12151982,
       "digest": "sha256:00356ae1bacd1160aa415664f3ed0d34ce9ef5319c61d31123a97366ea1a2f64",
-      "download_count": 1961,
+      "download_count": 2932,
       "created_at": "2026-11-26T14:20:13Z",
       "updated_at": "2026-11-26T14:20:14Z",
       "browser_download_url": "https://github.com/vale-cli/vale/releases/download/v3.29.0/vale_3.29.0_Linux_64-bit.tar.gz"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 11112100,
       "digest": "sha256:ffff63b3aaf97ca3c7e0a0c5226a8ddf7c21f21f1695e40461b0037d2189ba74",
-      "download_count": 50,
+      "download_count": 84,
       "created_at": "2026-11-26T14:20:13Z",
       "updated_at": "2026-11-26T14:20:14Z",
       "browser_download_url": "https://github.com/vale-cli/vale/releases/download/v3.29.0/vale_3.29.0_Linux_arm64.tar.gz"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 12323610,
       "digest": "sha256:5c983d634074ea0a7a9b40e6450dff1035f2b406a3f79b130ec4cddd8ff14675",
-      "download_count": 8,
+      "download_count": 14,
       "created_at": "2026-11-26T14:20:13Z",
       "updated_at": "2026-11-26T14:20:14Z",
       "browser_download_url": "https://github.com/vale-cli/vale/releases/download/v3.29.0/vale_3.29.0_macOS_64-bit.tar.gz"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 11504978,
       "digest": "sha256:62b0eb911aa9255ad4520afa5284d0b8a27f11eea5ffe40390a1eaaca9baab73",
-      "download_count": 58,
+      "download_count": 92,
       "created_at": "2026-11-26T14:20:13Z",
       "updated_at": "2026-11-26T14:20:14Z",
       "browser_download_url": "https://github.com/vale-cli/vale/releases/download/v3.29.0/vale_3.29.0_macOS_arm64.tar.gz"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 10030497,
       "digest": "sha256:01b670fa2a49fabb00b1e9bbf98041d38c9b3de62a0763ed4910863bbc14372d",
-      "download_count": 54,
+      "download_count": 62,
       "created_at": "2026-11-26T14:20:15Z",
       "updated_at": "2026-11-26T14:20:16Z",
       "browser_download_url": "https://github.com/vale-cli/vale/releases/download/v3.29.0/vale_3.29.0_wasm.tar.gz"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 12370014,
       "digest": "sha256:5977efcb833248b69c870759c74d368cdaf8845103ac59b986cad1467affc1a0",
-      "download_count": 98,
+      "download_count": 193,
       "created_at": "2026-11-26T14:20:14Z",
       "updated_at": "2026-11-26T14:20:16Z",
       "browser_download_url": "https://github.com/vale-cli/vale/releases/download/v3.29.0/vale_3.29.0_Windows_64-bit.zip"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 11241638,
       "digest": "sha256:139641ed5ef31b6a4b05b93570aa1be4246e64816c55fe20724abd07821d2c7c",
-      "download_count": 7,
+      "download_count": 11,
       "created_at": "2026-11-26T14:20:14Z",
       "updated_at": "2026-11-26T14:20:15Z",
       "browser_download_url": "https://github.com/vale-cli/vale/releases/download/v3.29.0/vale_3.29.0_Windows_arm64.zip"
