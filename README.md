@@ -38,7 +38,7 @@ Total: **195,741** lines of code across **863** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 6,440 · **Forks**: 245 · **Open issues**: 891 · **Contributors**: 69
+- **Stars**: 6,441 · **Forks**: 245 · **Open issues**: 891 · **Contributors**: 69
 
 ## Totals (cumulative)
 
@@ -100,4 +100,4 @@ Install metadata for vale lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T02:21:22Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:48:18Z._
