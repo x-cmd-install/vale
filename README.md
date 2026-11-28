@@ -14,14 +14,14 @@ x install vale
 
 ## Code insight
 
-Total: **195,741** lines of code across **863** files in the top 5 languages.
+Total: **196,527** lines of code across **871** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Xml | 83,732 | 1,635 | 2,262 | 92 |
-| Go | 42,419 | 7,179 | 5,917 | 315 |
+| Go | 43,048 | 7,250 | 6,008 | 323 |
 | XSL | 39,008 | 2,765 | 4,311 | 81 |
-| Yaml | 20,482 | 209 | 773 | 368 |
+| Yaml | 20,639 | 209 | 788 | 368 |
 | Rust | 2,619 | 55 | 195 | 7 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **195,741** lines of code across **863** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v3.29.0` (2026-11-26)
-- **Last commit**: 2026-11-26
+- **Last commit**: 2026-11-27
 - **Assets in release**: 31
 
 ## Popularity
 
-- **Stars**: 6,441 · **Forks**: 245 · **Open issues**: 891 · **Contributors**: 69
+- **Stars**: 6,445 · **Forks**: 245 · **Open issues**: 892 · **Contributors**: 69
 
 ## Totals (cumulative)
 
-- **Releases**: 210 · **Merged PRs**: 109 · **Open PRs**: 0 · **Closed issues**: 879 · **Open issues**: 12 · **Commits**: 2287
+- **Releases**: 210 · **Merged PRs**: 109 · **Open PRs**: 0 · **Closed issues**: 880 · **Open issues**: 12 · **Commits**: 2295
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 5 | 4 | 0 | 12 | 1 | 78 |
-| last60d | 2026-09-28 | 8 | 5 | 0 | 32 | 2 | 121 |
-| 90d | 2026-08-29 | 12 | 11 | 0 | 55 | 2 | 231 |
-| last180d | 2026-05-31 | 20 | 25 | 0 | 84 | 4 | 419 |
-| 360d | 2025-12-02 | 24 | 37 | 0 | 111 | 8 | 447 |
-| last720d | 2024-12-07 | 35 | 45 | 0 | 187 | 10 | 521 |
+| 30d | 2026-10-29 | 5 | 4 | 0 | 13 | 1 | 0 |
+| last60d | 2026-09-29 | 8 | 5 | 0 | 32 | 2 | 0 |
+| 90d | 2026-08-30 | 12 | 11 | 0 | 56 | 2 | 0 |
+| last180d | 2026-06-01 | 20 | 25 | 0 | 85 | 4 | 0 |
+| 360d | 2025-12-03 | 24 | 37 | 0 | 111 | 8 | 0 |
+| last720d | 2024-12-08 | 35 | 45 | 0 | 188 | 10 | 529 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for vale lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:48:18Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:29:08Z._
